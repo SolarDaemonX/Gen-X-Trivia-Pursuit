@@ -1,0 +1,901 @@
+ID,Category,Question,Answer,Option A,Option B,Option C,Option D
+1,MUSIC,Which singer released the album Thriller in 1982?,Michael Jackson,George Michael,Michael Jackson,Lionel Richie,Prince
+2,MUSIC,Which band recorded Livin' on a Prayer?,Bon Jovi,Def Leppard,Journey,Bon Jovi,Foreigner
+3,MUSIC,Who was known as the Material Girl?,Madonna,Madonna,Cyndi Lauper,Pat Benatar,Debbie Gibson
+4,MUSIC,Which group sang Take On Me?,a-ha,Wham!,Tears for Fears,Duran Duran,a-ha
+5,MUSIC,Who was the lead singer of Queen?,Freddie Mercury,David Bowie,Phil Collins,Freddie Mercury,Robert Plant
+6,MUSIC,Which artist had a hit with Purple Rain?,Prince,Stevie Wonder,Michael Jackson,Prince,Rick James
+7,MUSIC,Which band released Sweet Child o' Mine?,Guns N' Roses,Guns N' Roses,Motley Crue,Aerosmith,Poison
+8,MUSIC,Which singer performed Girls Just Want to Have Fun?,Cyndi Lauper,Tina Turner,Madonna,Belinda Carlisle,Cyndi Lauper
+9,MUSIC,What group had the hit Every Breath You Take?,The Police,U2,The Cure,The Cars,The Police
+10,MUSIC,Who sang I Wanna Dance with Somebody?,Whitney Houston,Paula Abdul,Toni Braxton,Whitney Houston,Janet Jackson
+11,MUSIC,Which British duo recorded Wake Me Up Before You Go-Go?,Wham!,Erasure,Pet Shop Boys,Wham!,Eurythmics
+12,MUSIC,What group sang Don't You (Forget About Me)?,Simple Minds,INXS,The Fixx,Depeche Mode,Simple Minds
+13,MUSIC,Which band recorded With or Without You?,U2,R.E.M.,The Smiths,The Clash,U2
+14,MUSIC,Who released the 1984 album Born in the U.S.A.?,Bruce Springsteen,Bryan Adams,John Mellencamp,Billy Joel,Bruce Springsteen
+15,MUSIC,Which artist recorded Like a Virgin?,Madonna,Cher,Kim Wilde,Cyndi Lauper,Madonna
+16,MUSIC,Who sang Total Eclipse of the Heart?,Bonnie Tyler,Laura Branigan,Pat Benatar,Bonnie Tyler,Heart
+17,MUSIC,Which band had the hit Africa?,Toto,Chicago,Kansas,Boston,Toto
+18,MUSIC,What duo performed Sweet Dreams (Are Made of This)?,Eurythmics,Roxette,Hall & Oates,Eurythmics,The B-52's
+19,MUSIC,Who was the lead singer of Nirvana?,Kurt Cobain,Eddie Vedder,Kurt Cobain,Billy Corgan,Chris Cornell
+20,MUSIC,Which group released No Scrubs in 1999?,TLC,TLC,Salt-N-Pepa,Destiny's Child,En Vogue
+21,MUSIC,What band recorded Smells Like Teen Spirit?,Nirvana,Pearl Jam,Stone Temple Pilots,Soundgarden,Nirvana
+22,MUSIC,Who sang Billie Jean?,Michael Jackson,Michael Jackson,Prince,Lionel Richie,Bobby Brown
+23,MUSIC,Which singer had a hit with Straight Up?,Paula Abdul,Jody Watley,Taylor Dayne,Paula Abdul,Janet Jackson
+24,MUSIC,Which group released the album The Joshua Tree?,U2,R.E.M.,The Cure,INXS,U2
+25,MUSIC,Which band recorded Pour Some Sugar on Me?,Def Leppard,Poison,Def Leppard,Bon Jovi,Whitesnake
+26,MUSIC,Who performed the 1980 hit Call Me?,Blondie,The Go-Go's,Blondie,Heart,The Bangles
+27,MUSIC,Which group sang Walk Like an Egyptian?,The Bangles,The Bangles,The Go-Go's,Bananarama,Wilson Phillips
+28,MUSIC,Who sang Never Gonna Give You Up?,Rick Astley,Jason Donovan,Rick Astley,George Michael,Richard Marx
+29,MUSIC,Which band had the hit Everybody Wants to Rule the World?,Tears for Fears,The Human League,Talk Talk,Duran Duran,Tears for Fears
+30,MUSIC,Which performer released the album Control in 1986?,Janet Jackson,Madonna,Janet Jackson,Paula Abdul,Whitney Houston
+31,MUSIC,Which group recorded Jump in 1984?,Van Halen,Journey,Van Halen,Europe,KISS
+32,MUSIC,Who sang Fast Car on the 1988 album Tracy Chapman?,Tracy Chapman,Sinead O'Connor,Joan Armatrading,Tracy Chapman,Suzanne Vega
+33,MUSIC,Which singer recorded Faith in 1987?,George Michael,Phil Collins,George Michael,Bryan Ferry,Rick Astley
+34,MUSIC,Which group had the hit West End Girls?,Pet Shop Boys,New Order,Pet Shop Boys,Erasure,Depeche Mode
+35,MUSIC,What band recorded Losing My Religion?,R.E.M.,Radiohead,R.E.M.,U2,Counting Crows
+36,MUSIC,Who sang What's Love Got to Do with It?,Tina Turner,Tina Turner,Diana Ross,Annie Lennox,Aretha Franklin
+37,MUSIC,Which rapper released the album The Chronic?,Dr. Dre,Dr. Dre,LL Cool J,Ice Cube,Snoop Dogg
+38,MUSIC,Which act recorded Push It?,Salt-N-Pepa,Run-D.M.C.,De La Soul,Salt-N-Pepa,TLC
+39,MUSIC,Which group sang California Love with 2Pac?,Dr. Dre,Wu-Tang Clan,Dr. Dre,N.W.A.,Public Enemy
+40,MUSIC,What band recorded Enter Sandman?,Metallica,Megadeth,Slayer,Anthrax,Metallica
+41,MUSIC,"Who sang Believe, a 1998 dance-pop hit?",Cher,Cher,Madonna,Kylie Minogue,Celine Dion
+42,MUSIC,Which Canadian singer released the album Jagged Little Pill?,Alanis Morissette,Shania Twain,Alanis Morissette,Jann Arden,Sarah McLachlan
+43,MOVIES & TV,Which film features the line I'll be back?,The Terminator,Predator,RoboCop,Die Hard,The Terminator
+44,MOVIES & TV,Who played Indiana Jones in Raiders of the Lost Ark?,Harrison Ford,Tom Selleck,Michael Douglas,Harrison Ford,Kurt Russell
+45,MOVIES & TV,What is the name of the ghost-hunting team's car in Ghostbusters?,Ecto-1,DeLorean,General Lee,KITT,Ecto-1
+46,MOVIES & TV,Which 1985 movie features a time-traveling DeLorean?,Back to the Future,Back to the Future,Weird Science,WarGames,Short Circuit
+47,MOVIES & TV,Which television series featured the fictional bar Cheers?,Cheers,Cheers,Frasier,Taxi,Night Court
+48,MOVIES & TV,Who was the lovable alien in an early-1980s Steven Spielberg film?,E.T.,Gizmo,Mork,ALF,E.T.
+49,MOVIES & TV,Which sitcom centered on the Huxtable family?,The Cosby Show,Family Ties,Good Times,Diff'rent Strokes,The Cosby Show
+50,MOVIES & TV,Which movie features the character Ferris Bueller?,Ferris Bueller's Day Off,Pretty in Pink,Ferris Bueller's Day Off,Sixteen Candles,The Breakfast Club
+51,MOVIES & TV,Who played Maverick in the original Top Gun?,Tom Cruise,Patrick Swayze,Val Kilmer,Tom Cruise,Kevin Bacon
+52,MOVIES & TV,What was the name of the talking car in Knight Rider?,KITT,KITT,Herbie,Ecto-1,HAL
+53,MOVIES & TV,Which sitcom starred Michael J. Fox as Alex P. Keaton?,Family Ties,Silver Spoons,Who's the Boss?,Growing Pains,Family Ties
+54,MOVIES & TV,Which adventure film includes the phrase Goonies never say die?,The Goonies,Stand by Me,Explorers,The Monster Squad,The Goonies
+55,MOVIES & TV,"In The Breakfast Club, how many students attend Saturday detention?",Five,Seven,Six,Five,Four
+56,MOVIES & TV,Which movie introduced the character Axel Foley?,Beverly Hills Cop,48 Hrs.,Lethal Weapon,Trading Places,Beverly Hills Cop
+57,MOVIES & TV,Who played the title character in Edward Scissorhands?,Johnny Depp,Michael Keaton,Robert Downey Jr.,Winona Ryder,Johnny Depp
+58,MOVIES & TV,"Which sitcom featured Blanche, Rose, Dorothy and Sophia?",The Golden Girls,The Golden Girls,Designing Women,The Facts of Life,Alice
+59,MOVIES & TV,Which sci-fi movie featured a computer called WOPR?,WarGames,The Last Starfighter,Tron,Blade Runner,WarGames
+60,MOVIES & TV,Which television show featured detectives Crockett and Tubbs?,Miami Vice,Hill Street Blues,The A-Team,Miami Vice,Magnum P.I.
+61,MOVIES & TV,Which 1982 movie is set around a haunted suburban house?,Poltergeist,The Lost Boys,The Shining,Gremlins,Poltergeist
+62,MOVIES & TV,What was the name of the school in Saved by the Bell?,Bayside High,Bayside High,Sunnydale High,West Beverly High,Ridgemont High
+63,MOVIES & TV,Which 1993 film features dinosaurs recreated for a theme park?,Jurassic Park,Twister,Congo,Jurassic Park,Jumanji
+64,MOVIES & TV,Who played the Joker in Tim Burton's 1989 Batman?,Jack Nicholson,Jack Nicholson,Heath Ledger,Danny DeVito,Jim Carrey
+65,MOVIES & TV,Which 1984 comedy featured Bill Murray as a paranormal investigator?,Ghostbusters,Groundhog Day,Scrooged,Stripes,Ghostbusters
+66,MOVIES & TV,Which cartoon features Optimus Prime?,Transformers,G.I. Joe,Transformers,ThunderCats,He-Man
+67,MOVIES & TV,What is the name of the dog on The Jetsons?,Astro,Dino,Odie,Astro,Scooby-Doo
+68,MOVIES & TV,"Which TV series featured Hannibal, Face, Murdock and B.A.?",The A-Team,MacGyver,CHiPs,Airwolf,The A-Team
+69,MOVIES & TV,What film made the phrase Nobody puts Baby in a corner famous?,Dirty Dancing,Flashdance,Grease 2,Footloose,Dirty Dancing
+70,MOVIES & TV,Which actor played MacGyver?,Richard Dean Anderson,David Hasselhoff,Richard Dean Anderson,Tom Selleck,Scott Bakula
+71,MOVIES & TV,Which 1988 film mixes live action with animated characters?,Who Framed Roger Rabbit,Cool World,Who Framed Roger Rabbit,The Mask,Space Jam
+72,MOVIES & TV,What is the fictional town in The Simpsons?,Springfield,Quahog,Springfield,Arlen,Bedrock
+73,MOVIES & TV,Which comedy series featured the Bundy family?,Married... with Children,Home Improvement,Married... with Children,Roseanne,Full House
+74,MOVIES & TV,Which 1990 film starred Macaulay Culkin as Kevin McCallister?,Home Alone,My Girl,Home Alone,Dennis the Menace,Uncle Buck
+75,MOVIES & TV,What series followed the lives of six friends in New York City starting in 1994?,Friends,Friends,Mad About You,Living Single,Seinfeld
+76,MOVIES & TV,Who played the title character in Mrs. Doubtfire?,Robin Williams,Mike Myers,Robin Williams,Jim Carrey,Steve Martin
+77,MOVIES & TV,Which animated television show stars Beavis and Butt-Head?,Beavis and Butt-Head,Beavis and Butt-Head,The Critic,King of the Hill,Daria
+78,MOVIES & TV,"In The Karate Kid (1984), who trains Daniel LaRusso?",Mr. Miyagi,Master Splinter,Mr. Miyagi,Mr. Han,Sensei Kreese
+79,MOVIES & TV,Which sci-fi series follows Captain Jean-Luc Picard?,Star Trek: The Next Generation,Quantum Leap,Babylon 5,Star Trek: Voyager,Star Trek: The Next Generation
+80,MOVIES & TV,Which sitcom featured a neighbor named Wilson whose face was usually obscured?,Home Improvement,Full House,Step by Step,Home Improvement,Family Matters
+81,MOVIES & TV,Which character says Did I do that? on Family Matters?,Steve Urkel,Carl Winslow,Steve Urkel,Waldo Faldo,Eddie Winslow
+82,MOVIES & TV,Which film stars Tom Hanks as a child who becomes an adult overnight?,Big,The Money Pit,Turner & Hooch,Splash,Big
+83,MOVIES & TV,Who played Sarah Connor in The Terminator?,Linda Hamilton,Sigourney Weaver,Geena Davis,Jamie Lee Curtis,Linda Hamilton
+84,MOVIES & TV,Which 1999 film popularized red-pill and blue-pill imagery?,The Matrix,The Thirteenth Floor,The Matrix,Dark City,eXistenZ
+85,TECH & TOYS,Which company created the original Walkman portable cassette player?,Sony,JVC,Sony,Philips,Panasonic
+86,TECH & TOYS,Which video game character collects rings and runs at high speed?,Sonic the Hedgehog,Pac-Man,Mario,Sonic the Hedgehog,Donkey Kong
+87,TECH & TOYS,What was the main storage medium in a typical early Walkman?,Cassette tape,Compact disc,Cassette tape,MiniDisc,8-track cartridge
+88,TECH & TOYS,Which console debuted in North America in 1985 as the NES?,Nintendo Entertainment System,TurboGrafx-16,Atari Jaguar,Sega Genesis,Nintendo Entertainment System
+89,TECH & TOYS,What did VHS stand for?,Video Home System,Video Home System,Visual High Speed,Video Head Standard,Variable Home Signal
+90,TECH & TOYS,Which toy line featured tiny colorful bears with symbols on their bellies?,Care Bears,Pound Puppies,Care Bears,Popples,Wuzzles
+91,TECH & TOYS,What shape did a classic 3.5-inch floppy disk have?,Square,Triangle,Circle,Square,Hexagon
+92,TECH & TOYS,What device let people send numeric messages before texting was common?,Pager,Answering machine,Pager,Fax modem,Walkie-talkie
+93,TECH & TOYS,Which toy puzzle has six colored faces you twist to solve?,Rubik's Cube,Simon,Rubik's Cube,Perfection,Bop It
+94,TECH & TOYS,Who was the yellow character in an arcade maze eating dots?,Pac-Man,Dig Dug,Q*bert,Pac-Man,Frogger
+95,TECH & TOYS,Which company made the Game Boy?,Nintendo,Sony,Sega,Nintendo,Atari
+96,TECH & TOYS,Which item was commonly used to rewind a cassette tape manually?,Pencil,Paper clip,Spoon,Pencil,Bottle cap
+97,TECH & TOYS,What is the original name of the first Star Wars film as released in 1977?,Star Wars,The Empire Strikes Back,The Phantom Menace,Star Wars,Return of the Jedi
+98,TECH & TOYS,Which toy franchise featured the phrase More than meets the eye?,Transformers,M.A.S.K.,G.I. Joe,Transformers,Voltron
+99,TECH & TOYS,Which gadget allowed home users to record television programs on tape?,VCR,Scanner,Laser printer,VCR,CD player
+100,TECH & TOYS,Which computer company marketed the Commodore 64?,Commodore,Apple,IBM,Tandy,Commodore
+101,TECH & TOYS,What digital pet toy became a late-1990s craze?,Tamagotchi,Pixel Chix,Tamagotchi,Furby,Poo-Chi
+102,TECH & TOYS,Which Atari game features two paddles bouncing a ball?,Pong,Breakout,Asteroids,Pong,Centipede
+103,TECH & TOYS,Which handheld electronic game used four large colored buttons and memory sequences?,Simon,Lights Out,Simon,Speak & Spell,Merlin
+104,TECH & TOYS,What kind of media did a Discman play?,Compact discs,Compact discs,VHS tapes,Cassette tapes,Vinyl records
+105,TECH & TOYS,Which 1980s robot toy could transform into a truck?,Optimus Prime,Megatron,Bumblebee,Starscream,Optimus Prime
+106,TECH & TOYS,Which 1990s home video game console used CD-ROMs and was made by Sony?,PlayStation,PlayStation,Dreamcast,Sega Saturn,Nintendo 64
+107,TECH & TOYS,What did AOL stand for?,America Online,Automated Office Line,American Open Link,America Online,Advanced Online Library
+108,TECH & TOYS,Which common early internet sound came from connecting via a telephone line?,Dial-up modem handshake,Printer startup chime,Dial-up modem handshake,VHS tracking buzz,Game Boy boot tone
+109,TECH & TOYS,What was the standard keyboard shortcut to copy text on Windows PCs?,Ctrl+C,Ctrl+X,Ctrl+C,Ctrl+Z,Ctrl+V
+110,TECH & TOYS,Which company introduced the Macintosh computer in 1984?,Apple,Apple,Microsoft,Compaq,IBM
+111,TECH & TOYS,Which home console used a three-button controller at its 1989 North American launch?,Sega Genesis,Nintendo 64,Atari 2600,Super Nintendo,Sega Genesis
+112,TECH & TOYS,Which word describes a cassette recording of favorite songs compiled by a listener?,Mixtape,Playlist stream,Podcast,Ringtone,Mixtape
+113,TECH & TOYS,Which toy allowed you to draw pictures by turning two knobs?,Etch A Sketch,Magnadoodle,Lite-Brite,Etch A Sketch,Spirograph
+114,TECH & TOYS,Which colorful toy used pegs to make glowing pictures on a lighted board?,Lite-Brite,Simon,Lite-Brite,Etch A Sketch,Perfection
+115,TECH & TOYS,Which handheld game console featured two screens and debuted in 2004?,Nintendo DS,Game Boy Color,Game Gear,Atari Lynx,Nintendo DS
+116,TECH & TOYS,Which character was the mascot for the Sega Genesis era?,Sonic the Hedgehog,Kirby,Crash Bandicoot,Sonic the Hedgehog,Link
+117,TECH & TOYS,What did CD stand for in CD-ROM?,Compact Disc,Compact Disc,Central Drive,Computer Diskette,Cassette Data
+118,TECH & TOYS,Which service popularized the phrase You've got mail?,AOL,CompuServe,GeoCities,Prodigy,AOL
+119,TECH & TOYS,Which popular 1990s PC game challenged players to clear mines from a grid?,Minesweeper,Tetris,FreeCell,Solitaire,Minesweeper
+120,TECH & TOYS,Which small plush collectible toy craze featured heart-shaped tags?,Beanie Babies,Cabbage Patch Kids,My Little Pony,Beanie Babies,Monchhichi
+121,TECH & TOYS,What toy had a springy metal coil that could walk down stairs?,Slinky,Yo-yo,Skip-It,Slinky,Pogo Ball
+122,TECH & TOYS,Which device played records using a stylus?,Turntable,Cassette deck,Turntable,VCR,CD changer
+123,TECH & TOYS,Which 1990s virtual world was famous for simple personal homepages?,GeoCities,GeoCities,TikTok,Myspace,Netflix
+124,TECH & TOYS,Which toy was a plastic hoop worn around the ankle with a ball attached?,Skip-It,Hula-Hoop,Sock'em Boppers,Pogo Stick,Skip-It
+125,TECH & TOYS,Which game required removing wooden blocks from a tall tower?,Jenga,Connect Four,Guess Who?,Jenga,Operation
+126,TECH & TOYS,Which device was designed to make physical copies of documents over phone lines?,Fax machine,Answering machine,Pager,Walkman,Fax machine
+127,HISTORY & HEADLINES,In what year did the Berlin Wall fall?,1989,1995,1989,1983,1991
+128,HISTORY & HEADLINES,Who was U.S. president when the Challenger shuttle disaster occurred?,Ronald Reagan,George H. W. Bush,Bill Clinton,Jimmy Carter,Ronald Reagan
+129,HISTORY & HEADLINES,In what year did the Space Shuttle Challenger disaster occur?,1986,1981,1992,1986,1989
+130,HISTORY & HEADLINES,Which country hosted the 1980 Summer Olympics?,Soviet Union,United States,South Korea,Canada,Soviet Union
+131,HISTORY & HEADLINES,In what year did the first human walk on the Moon?,1969,1981,1975,1969,1965
+132,HISTORY & HEADLINES,Which musical event raised funds for famine relief in 1985?,Live Aid,Woodstock,Live Aid,Farm Aid,Monterey Pop
+133,HISTORY & HEADLINES,Which two superpowers were principal rivals in the Cold War?,United States and Soviet Union,United States and Japan,United States and Soviet Union,France and China,Britain and India
+134,HISTORY & HEADLINES,In what year was the first Gulf War's ground campaign launched?,1991,1995,1999,1985,1991
+135,HISTORY & HEADLINES,What was the name of the nuclear power plant involved in the 1986 disaster?,Chernobyl,Chernobyl,Fukushima Daiichi,Sellafield,Three Mile Island
+136,HISTORY & HEADLINES,"In which country did the 1986 Chernobyl disaster occur, then part of the USSR?",Ukraine,Russia,Belarus,Poland,Ukraine
+137,HISTORY & HEADLINES,Who became the first woman appointed to the U.S. Supreme Court?,Sandra Day O'Connor,Sonia Sotomayor,Ruth Bader Ginsburg,Elena Kagan,Sandra Day O'Connor
+138,HISTORY & HEADLINES,In what year did Nelson Mandela become South Africa's president?,1994,1984,1989,1999,1994
+139,HISTORY & HEADLINES,Which country was reunified in 1990?,Germany,Vietnam,Yemen,Korea,Germany
+140,HISTORY & HEADLINES,What currency replaced many European national currencies in cash transactions in 2002?,Euro,Swiss franc,Pound sterling,Euro,Krona
+141,HISTORY & HEADLINES,Which famous protest took place in Beijing's Tiananmen Square in 1989?,Pro-democracy demonstrations,Salt March,Velvet Revolution,Pro-democracy demonstrations,Orange Revolution
+142,HISTORY & HEADLINES,What event began in 1989 and marked major political changes in Eastern Europe?,Fall of communist regimes,Suez Crisis,Cuban Missile Crisis,Fall of communist regimes,Korean War
+143,HISTORY & HEADLINES,Who was U.S. president during the 1976 bicentennial celebrations?,Gerald Ford,Gerald Ford,Ronald Reagan,Richard Nixon,Jimmy Carter
+144,HISTORY & HEADLINES,Which ship sank in the North Atlantic in 1912?,Titanic,Lusitania,Queen Mary,Britannic,Titanic
+145,HISTORY & HEADLINES,Which 1986 event saw a space shuttle break apart shortly after launch?,Challenger disaster,Skylab reentry,Apollo 13 mission,Columbia disaster,Challenger disaster
+146,HISTORY & HEADLINES,What year did the Soviet Union formally dissolve?,1991,1991,1996,1989,1985
+147,HISTORY & HEADLINES,Which global health crisis became a major public concern during the 1980s?,HIV/AIDS,H1N1 influenza,COVID-19,HIV/AIDS,SARS
+148,HISTORY & HEADLINES,What was the name of the 1989 oil spill tanker accident in Alaska?,Exxon Valdez,Torrey Canyon,Deepwater Horizon,Amoco Cadiz,Exxon Valdez
+149,HISTORY & HEADLINES,Which former U.S. first lady advocated the Just Say No anti-drug campaign?,Nancy Reagan,Nancy Reagan,Barbara Bush,Hillary Clinton,Rosalynn Carter
+150,HISTORY & HEADLINES,What country hosted the 1988 Summer Olympics?,South Korea,South Korea,China,Japan,Australia
+151,HISTORY & HEADLINES,In what city were the 1996 Summer Olympics held?,Atlanta,Sydney,Los Angeles,Barcelona,Atlanta
+152,HISTORY & HEADLINES,Who delivered the 1987 speech asking Mr. Gorbachev to tear down the Berlin Wall?,Ronald Reagan,Ronald Reagan,George H. W. Bush,Jimmy Carter,John F. Kennedy
+153,HISTORY & HEADLINES,What was the 1973 landmark U.S. Supreme Court abortion decision called?,Roe v. Wade,Plessy v. Ferguson,Miranda v. Arizona,Roe v. Wade,Brown v. Board of Education
+154,HISTORY & HEADLINES,Which U.S. president resigned in 1974?,Richard Nixon,Gerald Ford,Richard Nixon,Jimmy Carter,Lyndon B. Johnson
+155,HISTORY & HEADLINES,Which telescope launched into Earth orbit in 1990?,Hubble Space Telescope,James Webb Space Telescope,Kepler Space Telescope,Spitzer Space Telescope,Hubble Space Telescope
+156,HISTORY & HEADLINES,Which spacecraft made close-up flybys of Jupiter and Saturn after launching in 1977?,Voyager probes,Apollo spacecraft,Voyager probes,Space Shuttle orbiters,Mars rovers
+157,HISTORY & HEADLINES,Which 1997 agreement sought to limit greenhouse gas emissions?,Kyoto Protocol,Geneva Convention,Kyoto Protocol,Montreal Protocol,Paris Agreement
+158,HISTORY & HEADLINES,In what year did the Oklahoma City bombing occur?,1995,1985,1990,2001,1995
+159,HISTORY & HEADLINES,"What was the name of the 1990s trade agreement among the U.S., Canada and Mexico?",NAFTA,ASEAN,NAFTA,OPEC,NATO
+160,HISTORY & HEADLINES,Who was U.S. president when the Berlin Wall fell in 1989?,George H. W. Bush,Bill Clinton,George H. W. Bush,Jimmy Carter,Ronald Reagan
+161,HISTORY & HEADLINES,What was the name of the sheep announced in 1997 as the first mammal cloned from an adult cell?,Dolly,Polly,Dolly,Molly,Rosie
+162,HISTORY & HEADLINES,Which space station was operated by the Soviet Union and later Russia beginning in 1986?,Mir,Mir,Tiangong,ISS,Skylab
+163,HISTORY & HEADLINES,"Which event was marked on January 1, 2000 by widespread computer-date concerns?",Y2K rollover,Dot-com crash,First iPhone release,Euro cash launch,Y2K rollover
+164,HISTORY & HEADLINES,Which country returned Hong Kong to Chinese sovereignty in 1997?,United Kingdom,Netherlands,United Kingdom,Portugal,France
+165,HISTORY & HEADLINES,Which 1979 revolution overthrew Iran's monarchy?,Iranian Revolution,Iranian Revolution,People Power Revolution,Velvet Revolution,Cultural Revolution
+166,HISTORY & HEADLINES,Which Caribbean island nation experienced the Mariel boatlift in 1980?,Cuba,Haiti,Jamaica,Dominican Republic,Cuba
+167,HISTORY & HEADLINES,Which 1989 U.S. military operation took place in Panama?,Operation Just Cause,Operation Urgent Fury,Operation Desert Storm,Operation Just Cause,Operation Enduring Freedom
+168,HISTORY & HEADLINES,Which country saw the Solidarity labor movement rise in the 1980s?,Poland,Hungary,Czechoslovakia,Poland,Romania
+169,SPORTS & CULTURE,Which basketball player was nicknamed Air Jordan?,Michael Jordan,Larry Bird,Isiah Thomas,Magic Johnson,Michael Jordan
+170,SPORTS & CULTURE,What team won the first Super Bowl played in January 1967?,Green Bay Packers,Pittsburgh Steelers,Dallas Cowboys,Green Bay Packers,Kansas City Chiefs
+171,SPORTS & CULTURE,Which boxer was known as Iron Mike?,Mike Tyson,Evander Holyfield,George Foreman,Mike Tyson,Muhammad Ali
+172,SPORTS & CULTURE,Which NHL player is known as The Great One?,Wayne Gretzky,Gordie Howe,Bobby Orr,Wayne Gretzky,Mario Lemieux
+173,SPORTS & CULTURE,What sport did Andre Agassi play professionally?,Tennis,Soccer,Tennis,Baseball,Golf
+174,SPORTS & CULTURE,Which NBA team won six championships with Michael Jordan during the 1990s?,Chicago Bulls,Detroit Pistons,Los Angeles Lakers,Boston Celtics,Chicago Bulls
+175,SPORTS & CULTURE,Which NFL team won Super Bowl XX after the 1985 season?,Chicago Bears,New England Patriots,Miami Dolphins,Chicago Bears,San Francisco 49ers
+176,SPORTS & CULTURE,Which baseball player set the single-season home run record of 70 in 1998?,Mark McGwire,Ken Griffey Jr.,Barry Bonds,Sammy Sosa,Mark McGwire
+177,SPORTS & CULTURE,What sport made Tony Hawk famous?,Skateboarding,BMX,Skateboarding,Snowboarding,Surfing
+178,SPORTS & CULTURE,Which Olympic sprinter won four gold medals at the 1984 Los Angeles Games?,Carl Lewis,Carl Lewis,Usain Bolt,Ben Johnson,Michael Johnson
+179,SPORTS & CULTURE,Which golfer won the 1997 Masters by a record 12 strokes?,Tiger Woods,Greg Norman,Phil Mickelson,Jack Nicklaus,Tiger Woods
+180,SPORTS & CULTURE,What does NBA stand for?,National Basketball Association,North Basketball Alliance,National Boxing Association,National Basketball Association,National Baseball Association
+181,SPORTS & CULTURE,Who starred as the wrestler Hulkamania's central figure?,Hulk Hogan,The Undertaker,Randy Savage,Hulk Hogan,Andre the Giant
+182,SPORTS & CULTURE,Which video game franchise features football coach John Madden's name?,Madden NFL,Madden NFL,FIFA,Tecmo Bowl,NBA Jam
+183,SPORTS & CULTURE,Which athlete was nicknamed The Refrigerator on the 1985 Chicago Bears?,William Perry,Mike Singletary,William Perry,Jim McMahon,Walter Payton
+184,SPORTS & CULTURE,Which tennis player famously won the 1973 Battle of the Sexes match?,Billie Jean King,Steffi Graf,Chris Evert,Billie Jean King,Martina Navratilova
+185,SPORTS & CULTURE,Which baseball player was nicknamed Mr. October?,Reggie Jackson,Hank Aaron,Nolan Ryan,Pete Rose,Reggie Jackson
+186,SPORTS & CULTURE,Which sport is played at Wimbledon?,Tennis,Golf,Cricket,Tennis,Soccer
+187,SPORTS & CULTURE,Which 1992 U.S. Olympic basketball squad was called the Dream Team?,Men's basketball team,Men's basketball team,Women's volleyball team,Men's hockey team,Women's gymnastics team
+188,SPORTS & CULTURE,Which NFL team won four Super Bowls in the 1990s?,Dallas Cowboys,Oakland Raiders,Dallas Cowboys,Buffalo Bills,Denver Broncos
+189,SPORTS & CULTURE,Which athlete became the first woman to score a perfect 10 in Olympic gymnastics?,Nadia Comaneci,Mary Lou Retton,Simone Biles,Olga Korbut,Nadia Comaneci
+190,SPORTS & CULTURE,Which sport features the Stanley Cup?,Ice hockey,American football,Baseball,Basketball,Ice hockey
+191,SPORTS & CULTURE,In what sport is a hat trick traditionally three goals?,Ice hockey,Golf,Baseball,Tennis,Ice hockey
+192,SPORTS & CULTURE,Which NBA star was nicknamed Magic?,Earvin Johnson,Charles Barkley,Earvin Johnson,Scottie Pippen,Kareem Abdul-Jabbar
+193,SPORTS & CULTURE,Which athlete won the 1988 Olympic women's heptathlon and long jump?,Jackie Joyner-Kersee,Florence Griffith Joyner,Wilma Rudolph,Marion Jones,Jackie Joyner-Kersee
+194,SPORTS & CULTURE,Which boxer bit Evander Holyfield's ear in a 1997 fight?,Mike Tyson,Mike Tyson,Lennox Lewis,George Foreman,Riddick Bowe
+195,SPORTS & CULTURE,Which city hosted the 1984 Summer Olympics?,Los Angeles,Seoul,Los Angeles,Atlanta,Moscow
+196,SPORTS & CULTURE,What team won the 1984 NBA championship?,Boston Celtics,Boston Celtics,Los Angeles Lakers,Philadelphia 76ers,Detroit Pistons
+197,SPORTS & CULTURE,Which 1990s dance craze involved crossing arms and moving hips to a Los del Rio hit?,Macarena,Macarena,Electric Slide,Cabbage Patch,Running Man
+198,SPORTS & CULTURE,What were the bright elastic leg coverings worn over leggings called?,Leg warmers,Leg warmers,Arm warmers,Gaiters,Spats
+199,SPORTS & CULTURE,Which style of breakdancing featured spinning on a flattened back or shoulder?,Windmill,Grapevine,Moonwalk,Waltz,Windmill
+200,SPORTS & CULTURE,Which decade is most associated with the aerobic workout videos of Jane Fonda?,1980s,2010s,1950s,1980s,2000s
+201,SPORTS & CULTURE,What kind of footwear was famous for wheels attached in two rows of two?,Roller skates,Roller skates,Tap shoes,Soccer cleats,Ice skates
+202,SPORTS & CULTURE,Which of these sports uses a shuttlecock?,Badminton,Racquetball,Badminton,Squash,Table tennis
+203,SPORTS & CULTURE,Which Chicago Bull wore jersey number 23 in most of his career with the team?,Michael Jordan,Scottie Pippen,Dennis Rodman,Michael Jordan,Steve Kerr
+204,SPORTS & CULTURE,What sports equipment did baseball player Bo Jackson famously break over his knee?,Bat,Bat,Helmet,Glove,Base
+205,SPORTS & CULTURE,Which term describes a touchdown worth six points in American football?,Touchdown,Field goal,Extra point,Touchdown,Safety
+206,SPORTS & CULTURE,Which baseball team won the 1986 World Series?,New York Mets,New York Mets,Los Angeles Dodgers,Oakland Athletics,Boston Red Sox
+207,SPORTS & CULTURE,Which NFL team went undefeated in the 1972 regular season and playoffs?,Miami Dolphins,Dallas Cowboys,Miami Dolphins,Pittsburgh Steelers,Washington Redskins
+208,SPORTS & CULTURE,"Which athlete famously said Float like a butterfly, sting like a bee?",Muhammad Ali,Joe Frazier,Sugar Ray Leonard,Mike Tyson,Muhammad Ali
+209,SPORTS & CULTURE,Which tennis champion won the 1999 French Open men's singles title to complete a career Grand Slam?,Andre Agassi,Boris Becker,Pete Sampras,Jim Courier,Andre Agassi
+210,LIFE & TRENDS,What did you usually need to watch a rented VHS movie at home?,VCR,DVD player,VCR,Blu-ray player,Projector
+211,LIFE & TRENDS,Which retail chain was known for movie rentals and a blue-and-yellow logo?,Blockbuster,Circuit City,RadioShack,Blockbuster,Sears
+212,LIFE & TRENDS,What did people often use to listen to music privately on a city bus in the 1980s?,Walkman,Smart speaker,Walkman,Tablet,Smartphone
+213,LIFE & TRENDS,Which hair style often featured short sides and a longer back?,Mullet,Bob,Pixie cut,Buzz cut,Mullet
+214,LIFE & TRENDS,Which fashion accessory could be snapped around a wrist?,Slap bracelet,Slap bracelet,Bow tie,Cufflink,Wristwatch
+215,LIFE & TRENDS,What was a common way to find a friend's home phone number before smartphones?,Telephone directory,QR code,GPS app,Social media profile,Telephone directory
+216,LIFE & TRENDS,Which shopping center hangout became a symbol of 1980s teen life?,Mall,Warehouse,Airport,Mall,Library archive
+217,LIFE & TRENDS,What was the name for the tiny paper slips inside a fortune cookie?,Fortunes,Receipts,Tickets,Coupons,Fortunes
+218,LIFE & TRENDS,Which shirt style became especially associated with grunge fashion in the 1990s?,Flannel shirt,Flannel shirt,Hawaiian shirt,Polo shirt,Tuxedo shirt
+219,LIFE & TRENDS,What did a video rental store often charge for returning a movie past its due date?,Late fee,Late fee,Streaming fee,Delivery tip,Activation fee
+220,LIFE & TRENDS,Which long-running catalog let children circle potential holiday gifts?,Sears Wish Book,Sears Wish Book,TV Guide,Farmer's Almanac,Yellow Pages
+221,LIFE & TRENDS,What did people often use to record songs played on the radio?,Blank cassette tape,Memory card,Cloud drive,Blank cassette tape,USB stick
+222,LIFE & TRENDS,What home phone feature let callers leave recorded messages?,Answering machine,Caller ID box,Answering machine,Rotary dial,Fax paper
+223,LIFE & TRENDS,Which clothing brand is famous for its 501 jeans?,Levi's,Reebok,Keds,Champion,Levi's
+224,LIFE & TRENDS,What was the paper TV listings magazine commonly called?,TV Guide,People,TV Guide,Time,Rolling Stone
+225,LIFE & TRENDS,Which hairstyle involved crimped zigzag textures?,Crimped hair,Crew cut,Crimped hair,Pompadour,French twist
+226,LIFE & TRENDS,Which shoe was a popular high-top basketball sneaker in the 1980s?,Converse Chuck Taylor,UGG Classic,Birkenstock Boston,Crocs Classic,Converse Chuck Taylor
+227,LIFE & TRENDS,Which colorful plastic bracelets were often stacked in 1980s fashion?,Jelly bracelets,Jelly bracelets,Silicone watchbands,Leather cuffs,Friendship rings
+228,LIFE & TRENDS,Which kind of camera produced pictures that developed shortly after taking them?,Instant camera,Instant camera,Action camera,Webcam,DSLR
+229,LIFE & TRENDS,Which compact clothing accessory was worn around the waist to hold small items?,Fanny pack,Fanny pack,Backpack,Duffel bag,Messenger bag
+230,LIFE & TRENDS,Which kids' stationery design featured scented markers and stickers?,Scratch-and-sniff,Thermal paper,Scratch-and-sniff,Embossed foil,Blueprint prints
+231,LIFE & TRENDS,Which round game piece was flicked in playground games during a 1990s craze?,Pog,Beyblade,Domino,Marble,Pog
+232,LIFE & TRENDS,Which slogan was associated with the Wendy's television ads beginning in 1984?,Where's the beef?,Where's the beef?,I'm lovin' it,Have it your way,Eat fresh
+233,LIFE & TRENDS,What did a pay phone usually require to place a local call?,Coins,Wi-Fi password,Bluetooth pairing,Coins,Email account
+234,LIFE & TRENDS,Which magazine was known for its foldout posters of teen idols?,Tiger Beat,Popular Mechanics,The Economist,Tiger Beat,National Geographic
+235,LIFE & TRENDS,Which 1990s clothing style featured very loose pants?,Baggy jeans,Baggy jeans,Skinny jeans,Capri leggings,Bell-bottom suit pants
+236,LIFE & TRENDS,Which school supply item was often used to cover and protect textbooks?,Book cover,Screen protector,Phone case,Dust jacket sleeve,Book cover
+237,LIFE & TRENDS,Which shoe brand was famous for its Pump inflation system?,Reebok,Reebok,Vans,Puma,Keds
+238,LIFE & TRENDS,Which candy featured a toy dispenser shaped like a character's head?,PEZ,Pop Rocks,Nerds,Skittles,PEZ
+239,LIFE & TRENDS,Which chewy candy came in a long strip rolled inside a circular package?,Fruit by the Foot,Airheads,Now and Later,Twizzlers,Fruit by the Foot
+240,LIFE & TRENDS,What was the name of a device commonly used to make collect calls from a street corner?,Pay phone,Pay phone,Pager,Camcorder,Walkman
+241,LIFE & TRENDS,Which entertainment store chain was especially known for music CDs?,Sam Goody,Home Depot,Kinko's,OfficeMax,Sam Goody
+242,LIFE & TRENDS,What early 1990s hairstyle featured the front of the hair standing high?,High-top fade,High-top fade,Mohawk,Pompadour,Beehive
+243,LIFE & TRENDS,Which clothing style paired brightly colored windbreakers with nylon pants?,Tracksuit,Tuxedo,Boiler suit,Tracksuit,Business suit
+244,LIFE & TRENDS,Which snack's mascot asked for cheese while saying it ain't easy being cheesy?,Cheetos,Doritos,Pringles,Cheetos,Fritos
+245,LIFE & TRENDS,Which toy used a ribbon-like plastic strip to create colorful braided bracelets?,Friendship bracelet kit,Friendship bracelet kit,Chemistry set,Model rocket,Yo-yo set
+246,LIFE & TRENDS,Which electronics store chain was famous for its slogan You've got questions. We've got answers.?,RadioShack,Fry's Electronics,Best Buy,RadioShack,CompUSA
+247,LIFE & TRENDS,Which diner appliance commonly displayed a rotating collection of large records for customers?,Jukebox,Microwave,Toaster,Blender,Jukebox
+248,LIFE & TRENDS,Which old school communication method involved mailing handwritten postcards?,Postal mail,Instant message,Video call,Postal mail,Direct message
+249,LIFE & TRENDS,Which term described staying home on a Friday night to rent and watch movies?,Movie night,Video conference,Livestream,Webinar,Movie night
+250,LIFE & TRENDS,Which board game asks players to identify a mystery person by flipping down faces?,Guess Who?,Battleship,Life,Guess Who?,Clue
+251,MUSIC,Who sang the hit song 'Time After Time'?,Cyndi Lauper,Guns N' Roses,Phil Collins,Culture Club,Cyndi Lauper
+252,MUSIC,Which group recorded 'Hungry Like the Wolf'?,Duran Duran,Public Enemy,Whitesnake,Ace of Base,Duran Duran
+253,MUSIC,Who performed 'Careless Whisper'?,George Michael,Bruce Springsteen,George Michael,John Mellencamp,Men Without Hats
+254,MUSIC,Which singer released 'Edge of Seventeen'?,Stevie Nicks,Peter Gabriel,Stevie Nicks,Duran Duran,Culture Club
+255,MUSIC,Who sang 'Holding Out for a Hero'?,Bonnie Tyler,Tracy Chapman,David Bowie,Dire Straits,Bonnie Tyler
+256,MUSIC,Which band recorded 'Don't Stop Believin''?,Journey,Boston,Poison,Prince,Journey
+257,MUSIC,Who had the hit 'Physical' in 1981?,Olivia Newton-John,Shakespears Sister,Olivia Newton-John,Stone Temple Pilots,Deniece Williams
+258,MUSIC,Which duo recorded 'Maneater' in 1982?,Hall & Oates,Hall & Oates,Tommy Tutone,Culture Club,Shania Twain
+259,MUSIC,Who recorded '99 Luftballons'?,Nena,Roxette,Nena,Survivor,Soft Cell
+260,MUSIC,Which artist released 'Kiss' in 1986?,Prince,Prince,Cher,Nirvana,Erasure
+261,MUSIC,Which singer had a hit with 'The Way You Make Me Feel'?,Michael Jackson,Michael Jackson,Belinda Carlisle,Sarah McLachlan,Backstreet Boys
+262,MUSIC,Who sang 'Girls on Film'?,Duran Duran,Duran Duran,De La Soul,Soundgarden,Rick Astley
+263,MUSIC,Which band released 'Eye of the Tiger'?,Survivor,The Cure,The Cars,Haddaway,Survivor
+264,MUSIC,Which group recorded 'Come On Eileen'?,Dexys Midnight Runners,Katrina and the Waves,The Pointer Sisters,Christina Aguilera,Dexys Midnight Runners
+265,MUSIC,Who performed 'Bette Davis Eyes'?,Kim Carnes,The Smiths,Def Leppard,Kim Carnes,Whitesnake
+266,MUSIC,Which band recorded 'The Final Countdown'?,Europe,Blur,Prince,Slayer,Europe
+267,MUSIC,Which singer had a hit with 'True Colors'?,Cyndi Lauper,Bryan Ferry,Tommy Tutone,Mariah Carey,Cyndi Lauper
+268,MUSIC,Who performed 'I'm So Excited'?,The Pointer Sisters,Michael Hutchence,Wilson Phillips,The Pointer Sisters,Olivia Newton-John
+269,MUSIC,Which artist sang 'Upside Down' in 1980?,Diana Ross,Diana Ross,Billy Joel,Bryan Ferry,Rick James
+270,MUSIC,Who recorded 'Let's Hear It for the Boy'?,Deniece Williams,Deniece Williams,Sinead O'Connor,The J. Geils Band,Freddie Mercury
+271,MUSIC,Which band made 'Tainted Love' a hit in 1981?,Soft Cell,Survivor,Bon Jovi,Metallica,Soft Cell
+272,MUSIC,Who performed 'Puttin' on the Ritz' in 1982?,Taco,Wham!,Nena,Taco,Oasis
+273,MUSIC,Which band released 'You Spin Me Round (Like a Record)'?,Dead or Alive,Dead or Alive,Kylie Minogue,Harvey Danger,Richard Marx
+274,MUSIC,Who performed 'We Built This City'?,Starship,Starship,Foreigner,Survivor,The Cure
+275,MUSIC,Which singer released 'Gloria' in 1982?,Laura Branigan,Depeche Mode,Stevie Wonder,Whitney Houston,Laura Branigan
+276,MUSIC,Which group performed 'The Safety Dance'?,Men Without Hats,Gregg Alexander,Men Without Hats,Michael Hutchence,The J. Geils Band
+277,MUSIC,Who recorded 'Walking on Sunshine'?,Katrina and the Waves,Katrina and the Waves,Sixpence None the Richer,Huey Lewis and the News,Alanis Morissette
+278,MUSIC,Which band released 'Money for Nothing'?,Dire Straits,Vanilla Ice,Suzanne Vega,Toni Braxton,Dire Straits
+279,MUSIC,Who sang 'Heaven Is a Place on Earth'?,Belinda Carlisle,Alanis Morissette,Belinda Carlisle,Sinead O'Connor,Michael Stipe
+280,MUSIC,Which artist performed 'Never Tear Us Apart' with his band?,Michael Hutchence,Michael Hutchence,Christina Aguilera,Alanis Morissette,Bruce Springsteen
+281,MUSIC,Which Australian band recorded 'Need You Tonight'?,INXS,INXS,Toto,Falco,Sade
+282,MUSIC,Who sang 'I Think We're Alone Now' in 1987?,Tiffany,The Cure,Sublime,Tiffany,Dr. Dre
+283,MUSIC,Which artist had the 1988 hit 'Foolish Beat'?,Debbie Gibson,Janet Jackson,Taylor Dayne,Mark Morrison,Debbie Gibson
+284,MUSIC,Which band recorded 'The One I Love'?,R.E.M.,Tiffany,Warren G,Prince,R.E.M.
+285,MUSIC,Who performed 'All Night Long (All Night)'?,Lionel Richie,CeCe Peniston,Lionel Richie,Robert Palmer,Toni Braxton
+286,MUSIC,Which group had a hit with 'Karma Chameleon'?,Culture Club,Duran Duran,Culture Club,Dead or Alive,Tommy Tutone
+287,MUSIC,Who sang 'Missing You' in 1984?,John Waite,David Bowie,Bryan Ferry,Stevie Wonder,John Waite
+288,MUSIC,Which artist performed 'Addicted to Love'?,Robert Palmer,Tracy Chapman,The Breeders,Robert Palmer,Mark Morrison
+289,MUSIC,Which band recorded 'Here I Go Again'?,Whitesnake,The Smiths,Whitesnake,Rick Astley,The Bangles
+290,MUSIC,Who performed 'Alone' in 1987?,Heart,Boston,ABC,Falco,Heart
+291,MUSIC,Which artist released 'Sledgehammer'?,Peter Gabriel,Depeche Mode,Shania Twain,Peter Gabriel,Mariah Carey
+292,MUSIC,Who performed 'The Power of Love' for Back to the Future?,Huey Lewis and the News,The Notorious B.I.G.,Olivia Newton-John,Bruce Springsteen,Huey Lewis and the News
+293,MUSIC,Which band had the 1984 hit 'Jump (For My Love)'?,The Pointer Sisters,The Pointer Sisters,Dexys Midnight Runners,A Flock of Seagulls,The Notorious B.I.G.
+294,MUSIC,Who recorded 'Mickey' in 1982?,Toni Basil,John Waite,LL Cool J,Toni Basil,Radiohead
+295,MUSIC,Which band released 'I Ran (So Far Away)'?,A Flock of Seagulls,Joan Armatrading,A Flock of Seagulls,Counting Crows,Alanis Morissette
+296,MUSIC,Who performed 'Don't You Want Me'?,The Human League,Belinda Carlisle,Men Without Hats,The Human League,Richard Ashcroft
+297,MUSIC,Which singer had a hit with 'Red Red Wine' as part of UB40?,Ali Campbell,The Breeders,Simple Minds,Richard Marx,Ali Campbell
+298,MUSIC,Which band recorded 'Owner of a Lonely Heart'?,Yes,Taco,Journey,Yes,INXS
+299,MUSIC,Who sang 'Flashdance... What a Feeling'?,Irene Cara,Irene Cara,Eurythmics,De La Soul,Pat Benatar
+300,MUSIC,Who performed 'Manic Monday'?,The Bangles,Rick Astley,Paul Simon,Culture Club,The Bangles
+301,MUSIC,Which band released 'Centerfold'?,The J. Geils Band,The J. Geils Band,Culture Club,Richard Ashcroft,Men Without Hats
+302,MUSIC,Who had a hit with '867-5309/Jenny'?,Tommy Tutone,Robert Palmer,Dead or Alive,Pet Shop Boys,Tommy Tutone
+303,MUSIC,Which group performed 'Shout' in 1984?,Tears for Fears,Bell Biv DeVoe,Britney Spears,Backstreet Boys,Tears for Fears
+304,MUSIC,Who sang 'The Reflex'?,Duran Duran,Pat Benatar,Cyndi Lauper,Duran Duran,Robert Plant
+305,MUSIC,Which group recorded 'The Look of Love' in 1982?,ABC,INXS,ABC,Toto,Blur
+306,MUSIC,Who released the album 'Rio' in 1982?,Duran Duran,Blind Melon,Duran Duran,Kurt Cobain,The Bangles
+307,MUSIC,Which band released 'Brothers in Arms' in 1985?,Dire Straits,Janet Jackson,Shania Twain,Dire Straits,Robert Plant
+308,MUSIC,Which singer released the album 'She's So Unusual'?,Cyndi Lauper,Mariah Carey,Bell Biv DeVoe,Cyndi Lauper,Bananarama
+309,MUSIC,Which band released the album 'Hysteria' in 1987?,Def Leppard,Rick Astley,John Waite,Def Leppard,Motley Crue
+310,MUSIC,Which musician released the album 'Graceland' in 1986?,Paul Simon,Diana Ross,Duran Duran,Jann Arden,Paul Simon
+311,MUSIC,Who recorded the 1984 song 'Smooth Operator'?,Sade,Madonna,Sade,NSYNC,Wham!
+312,MUSIC,Which band was Phil Collins the drummer and lead singer of?,Genesis,Prince,Erasure,Genesis,The Cure
+313,MUSIC,Who recorded 'In the Air Tonight' as a solo artist?,Phil Collins,Beastie Boys,Bonnie Tyler,Toni Basil,Phil Collins
+314,MUSIC,Which band recorded 'Don't Dream It's Over'?,Crowded House,Mark Morrison,Jason Donovan,Crowded House,Kylie Minogue
+315,MUSIC,Who sang 'If You Leave' from Pretty in Pink?,Orchestral Manoeuvres in the Dark,Orchestral Manoeuvres in the Dark,The Cranberries,Bruce Springsteen,Shakespears Sister
+316,MUSIC,Which group recorded 'A Little Respect'?,Erasure,Nirvana,Erasure,Dr. Dre,Madonna
+317,MUSIC,Who sang 'True' in 1983?,Spandau Ballet,Spandau Ballet,Laura Branigan,Destiny's Child,Guns N' Roses
+318,MUSIC,Which group performed 'Rock Me Amadeus'?,Falco,Snap!,Falco,R.E.M.,Heart
+319,MUSIC,Who recorded 'What Is Love' in 1993?,Haddaway,Ice Cube,Kim Wilde,Haddaway,Bon Jovi
+320,MUSIC,Which group released 'Rhythm Is a Dancer'?,Snap!,Snap!,Dr. Dre,Fugees,Sade
+321,MUSIC,Who sang 'Show Me Love' in 1993?,Robin S.,Haddaway,Robin S.,The Verve,Warren G
+322,MUSIC,Who released the dance hit 'Finally' in 1991?,CeCe Peniston,Debbie Gibson,Sir Mix-a-Lot,Mariah Carey,CeCe Peniston
+323,MUSIC,Which band sang 'Tubthumping'?,Chumbawamba,Rick Astley,Bryan Ferry,Def Leppard,Chumbawamba
+324,MUSIC,Who recorded 'Ice Ice Baby'?,Vanilla Ice,Eddie Vedder,Kurt Cobain,Vanilla Ice,Shania Twain
+325,MUSIC,Who performed 'U Can't Touch This'?,MC Hammer,Irene Cara,Billy Joel,MC Hammer,Foreigner
+326,MUSIC,Which trio performed 'Waterfalls' in 1995?,TLC,Sade,Heart,TLC,Tiffany
+327,MUSIC,Which group recorded 'Poison' in 1990?,Bell Biv DeVoe,Spandau Ballet,Bell Biv DeVoe,Britney Spears,Peter Gabriel
+328,MUSIC,Who sang 'Motownphilly'?,Boyz II Men,Boyz II Men,Bryan Ferry,Ace of Base,Chumbawamba
+329,MUSIC,Which singer released 'Vision of Love'?,Mariah Carey,Depeche Mode,CeCe Peniston,Crowded House,Mariah Carey
+330,MUSIC,Who performed 'My Heart Will Go On'?,Celine Dion,Jody Watley,Ace of Base,Celine Dion,Toni Braxton
+331,MUSIC,Which band recorded 'Creep' in 1992?,Radiohead,Semisonic,Radiohead,Ice Cube,Talk Talk
+332,MUSIC,Which band recorded 'Black Hole Sun'?,Soundgarden,Pat Benatar,Soundgarden,Duran Duran,Lauryn Hill
+333,MUSIC,Which grunge band released 'Jeremy'?,Pearl Jam,Pearl Jam,Diana Ross,Van Halen,The Police
+334,MUSIC,Who recorded 'You Oughta Know'?,Alanis Morissette,Michael Hutchence,Alanis Morissette,Joan Armatrading,Third Eye Blind
+335,MUSIC,Which band released 'Zombie' in 1994?,The Cranberries,Michael Jackson,The Cranberries,Joan Armatrading,Pet Shop Boys
+336,MUSIC,Which group recorded 'Wonderwall'?,Oasis,Falco,Oasis,INXS,Europe
+337,MUSIC,Who sang 'Bittersweet Symphony' with his band?,Richard Ashcroft,Richard Ashcroft,Pet Shop Boys,Laura Branigan,Chris Cornell
+338,MUSIC,Which group released 'Bitter Sweet Symphony'?,The Verve,Irene Cara,Anthrax,The Verve,Lauryn Hill
+339,MUSIC,Which band released 'Song 2' in 1997?,Blur,Yes,Toto,Erasure,Blur
+340,MUSIC,Who recorded 'Losing My Religion' with R.E.M.?,Michael Stipe,Laura Branigan,Chris Cornell,Michael Stipe,Peter Gabriel
+341,MUSIC,Which group released 'Semi-Charmed Life'?,Third Eye Blind,Whitney Houston,Third Eye Blind,Richard Ashcroft,Bell Biv DeVoe
+342,MUSIC,Which band recorded 'Good Riddance (Time of Your Life)'?,Green Day,Aerosmith,The Cure,John Waite,Green Day
+343,MUSIC,Who released 'No Rain' in 1992?,Blind Melon,Blind Melon,Bryan Ferry,Chumbawamba,Eurythmics
+344,MUSIC,Which band recorded '1979' in 1996?,The Smashing Pumpkins,Katrina and the Waves,Men Without Hats,The Smashing Pumpkins,Christina Aguilera
+345,MUSIC,Who recorded 'Santeria'?,Sublime,Bon Jovi,Slayer,Chicago,Sublime
+346,MUSIC,Which group performed 'Jump Around'?,House of Pain,Spandau Ballet,House of Pain,Jason Donovan,Pet Shop Boys
+347,MUSIC,Who performed 'Regulate' with Nate Dogg?,Warren G,The Cars,Van Halen,Soft Cell,Warren G
+348,MUSIC,Which singer released 'Doo Wop (That Thing)'?,Lauryn Hill,Celine Dion,Lauryn Hill,Tina Turner,Kurt Cobain
+349,MUSIC,Who recorded 'Killing Me Softly' in 1996?,Fugees,Fugees,Nirvana,Poison,The Clash
+350,MUSIC,Who released 'California Love' with Dr. Dre?,2Pac,Cher,Europe,2Pac,NSYNC
+351,MUSIC,Which rapper released 'Juicy' in 1994?,The Notorious B.I.G.,The Notorious B.I.G.,Christina Aguilera,Alanis Morissette,Stone Temple Pilots
+352,MUSIC,Which group released 'Sabotage' in 1994?,Beastie Boys,Debbie Gibson,Robert Plant,Vanilla Ice,Beastie Boys
+353,MUSIC,Which rock band recorded 'Basket Case'?,Green Day,Chumbawamba,The Clash,Green Day,Starship
+354,MUSIC,Who had a hit with 'Baby Got Back'?,Sir Mix-a-Lot,Sir Mix-a-Lot,Kylie Minogue,Mariah Carey,Peter Gabriel
+355,MUSIC,Which group recorded 'Cannonball' in 1993?,The Breeders,Shania Twain,Beastie Boys,The Breeders,Kylie Minogue
+356,MUSIC,Which band recorded 'Flagpole Sitta'?,Harvey Danger,Phil Collins,Hall & Oates,Shania Twain,Harvey Danger
+357,MUSIC,Which group released 'Closing Time'?,Semisonic,Soft Cell,Metallica,The Clash,Semisonic
+358,MUSIC,Who performed 'The Sign' in 1993?,Ace of Base,Eurythmics,Ace of Base,Tina Turner,Bobby Brown
+359,MOVIES & TV,Which movie featured a character named Chunk and the Truffle Shuffle?,The Goonies,Winona Ryder,The X-Files,The Goonies,ThunderCats
+360,MOVIES & TV,"Which movie featured the line 'Wax on, wax off'?",The Karate Kid,Dawson's Creek,Michael Keaton,The Karate Kid,The Lost Boys
+361,MOVIES & TV,Which actor played Daniel LaRusso in The Karate Kid?,Ralph Macchio,The Lion King,Ralph Macchio,Short Circuit,Jennifer Grey
+362,MOVIES & TV,Who played Mr. Miyagi in The Karate Kid?,Pat Morita,Pat Morita,Tim Burton,Scooby-Doo,Val Kilmer
+363,MOVIES & TV,"In Back to the Future, who invented the time machine?",Doc Brown,Doc Brown,Gremlins,Grease 2,Miami Vice
+364,MOVIES & TV,What speed must the DeLorean reach for time travel?,88 mph,Congo,He-Man,MacGyver,88 mph
+365,MOVIES & TV,Which actress played Lorraine McFly?,Lea Thompson,Lea Thompson,Night Court,Scott Bakula,Jurassic Park
+366,MOVIES & TV,Who played Marty McFly in Back to the Future?,Michael J. Fox,Patrick Stewart,Ridgemont High,Michael J. Fox,Turner & Hooch
+367,MOVIES & TV,What television series starred John Ritter as Jack Tripper?,Three's Company,Three's Company,Inspector Gadget,Designing Women,The Cosby Show
+368,MOVIES & TV,Which sitcom followed the staff of a Boston bar?,Cheers,Jumanji,Melmac,Astro,Cheers
+369,MOVIES & TV,Who played Sam Malone on Cheers?,Ted Danson,Pat Morita,The A-Team,Tim Allen,Ted Danson
+370,MOVIES & TV,Which character on Cheers was a mail carrier?,Cliff Clavin,Cliff Clavin,Forrest Gump,Blade Runner,Harold Ramis
+371,MOVIES & TV,Which sitcom featured the theme 'Thank You for Being a Friend'?,The Golden Girls,Three's Company,Michael Richards,The Golden Girls,King of the Hill
+372,MOVIES & TV,Who played Sophia Petrillo on The Golden Girls?,Estelle Getty,Nakatomi Plaza,The Cosby Show,Estelle Getty,The Money Pit
+373,MOVIES & TV,Who played Dorothy Zbornak on The Golden Girls?,Bea Arthur,Scooby-Doo,Poltergeist,Tim Burton,Bea Arthur
+374,MOVIES & TV,Which show starred Tony Danza as Tony Micelli?,Who's the Boss?,Family Matters,Who's the Boss?,Designing Women,Independence Day
+375,MOVIES & TV,Who played Angela Bower on Who's the Boss?,Judith Light,Judith Light,ThunderCats,Lea Thompson,Poltergeist
+376,MOVIES & TV,Which sitcom featured the character ALF?,ALF,Six,ALF,Herbie,Mork
+377,MOVIES & TV,What planet did ALF come from?,Melmac,Melmac,Footloose,Herbie,G.I. Joe
+378,MOVIES & TV,Which show featured Balki Bartokomous and Larry Appleton?,Perfect Strangers,David Duchovny,Inspector Gadget,Perfect Strangers,Gillian Anderson
+379,MOVIES & TV,Which sitcom starred the character Steve Urkel?,Family Matters,The Terminator,Sunnydale High,Family Matters,The Karate Kid
+380,MOVIES & TV,Which actor played Steve Urkel?,Jaleel White,Jaleel White,Prince Adam,Jennifer Grey,Living Single
+381,MOVIES & TV,Which show featured the phrase 'Did I do that?',Family Matters,Nakatomi Plaza,Michael Keaton,Robin Williams,Family Matters
+382,MOVIES & TV,Which animated series featured the villain Skeletor?,He-Man and the Masters of the Universe,Teenage Mutant Ninja Turtles,The Last Starfighter,He-Man and the Masters of the Universe,Star Trek: The Next Generation
+383,MOVIES & TV,What was He-Man's secret identity?,Prince Adam,Prince Adam,John Stamos,Val Kilmer,Scooby-Doo
+384,MOVIES & TV,Which cartoon featured Lion-O?,ThunderCats,Night Court,Mike Myers,ThunderCats,The Goonies
+385,MOVIES & TV,Which cartoon featured Leonardo and Michelangelo?,Teenage Mutant Ninja Turtles,The Silence of the Lambs,Who Framed Roger Rabbit,Terminator 2: Judgment Day,Teenage Mutant Ninja Turtles
+386,MOVIES & TV,What type of animal was Splinter in TMNT?,Rat,Rat,Mork,Seven,ER
+387,MOVIES & TV,Which cartoon featured Inspector Gadget's niece Penny?,Inspector Gadget,The Facts of Life,Alicia Silverstone,Dennis the Menace,Inspector Gadget
+388,MOVIES & TV,Which cartoon followed Scrooge McDuck and his nephews?,DuckTales,Ted Danson,DuckTales,Gremlins,Footloose
+389,MOVIES & TV,Which cartoon starred a pilot named Launchpad McQuack?,DuckTales,WarGames,Flashdance,Stripes,DuckTales
+390,MOVIES & TV,Which movie introduced the creature Gizmo?,Gremlins,Seinfeld,DeLorean,Gremlins,Clueless
+391,MOVIES & TV,What must you never feed a Mogwai after midnight?,Food,Quahog,Taxi,Food,Predator
+392,MOVIES & TV,Which movie featured a school principal named Ed Rooney?,Ferris Bueller's Day Off,Married... with Children,Matthew Broderick,Ferris Bueller's Day Off,Diff'rent Strokes
+393,MOVIES & TV,Which actor played Ferris Bueller?,Matthew Broderick,Dennis the Menace,Matthew Broderick,Gillian Anderson,Alicia Silverstone
+394,MOVIES & TV,Who played Jeanie Bueller?,Jennifer Grey,Linda Hamilton,Dirty Dancing,Jennifer Grey,David Duchovny
+395,MOVIES & TV,Which film featured a dance routine to 'Time of My Life'?,Dirty Dancing,Dawson's Creek,Dirty Dancing,Bruce Willis,Eddie Winslow
+396,MOVIES & TV,Who played Johnny Castle in Dirty Dancing?,Patrick Swayze,Sixteen Candles,Dumb and Dumber,Patrick Swayze,Master Splinter
+397,MOVIES & TV,Who played Frances 'Baby' Houseman?,Jennifer Grey,The Lost Boys,Carl Winslow,Jennifer Grey,Jaleel White
+398,MOVIES & TV,Which film featured the song 'Danger Zone' with fighter pilots?,Top Gun,Top Gun,Clueless,Quahog,My Girl
+399,MOVIES & TV,Who played Iceman in Top Gun?,Val Kilmer,Val Kilmer,Stand by Me,Uncle Buck,Miami Vice
+400,MOVIES & TV,What is Maverick's surname in Top Gun?,Mitchell,WarGames,Mitchell,Cool World,DuckTales
+401,MOVIES & TV,Which movie featured the character John McClane?,Die Hard,Die Hard,Seinfeld,Scrooged,Grease 2
+402,MOVIES & TV,Who played John McClane?,Bruce Willis,Beetlejuice,Bruce Willis,Estelle Getty,The Lost Boys
+403,MOVIES & TV,Which tower is the setting for the original Die Hard?,Nakatomi Plaza,Nakatomi Plaza,Pretty Woman,Living Single,Jack Nicholson
+404,MOVIES & TV,Which movie featured the character Ellen Ripley?,Alien,Splash,Congo,Alien,RoboCop
+405,MOVIES & TV,Who played Ellen Ripley?,Sigourney Weaver,Sigourney Weaver,Jamie Lee Curtis,Gillian Anderson,King of the Hill
+406,MOVIES & TV,Which film featured the killer cyborg T-800?,The Terminator,Growing Pains,David Duchovny,The Terminator,Designing Women
+407,MOVIES & TV,Which sequel introduced the liquid-metal T-1000?,Terminator 2: Judgment Day,Back to the Future,Terminator 2: Judgment Day,"Beverly Hills, 90210",Who Framed Roger Rabbit
+408,MOVIES & TV,Who played the T-1000?,Robert Patrick,Master Splinter,Step by Step,The Lion King,Robert Patrick
+409,MOVIES & TV,Which movie featured a police officer turned cyborg named Alex Murphy?,RoboCop,Predator,The Mask,RoboCop,Aladdin
+410,MOVIES & TV,Who played RoboCop in the 1987 film?,Peter Weller,Peter Weller,Cliff Clavin,Carl Winslow,Springfield
+411,MOVIES & TV,Which movie features a ghost named Slimer?,Ghostbusters,Ghostbusters,General Lee,American Pie,Transformers
+412,MOVIES & TV,Who played Peter Venkman in Ghostbusters?,Bill Murray,Home Alone,Lisa Kudrow,Judith Light,Bill Murray
+413,MOVIES & TV,Who played Egon Spengler in Ghostbusters?,Harold Ramis,Kurt Russell,Night Court,Harold Ramis,Estelle Getty
+414,MOVIES & TV,Who played Dana Barrett in Ghostbusters?,Sigourney Weaver,Sigourney Weaver,David Hasselhoff,The Karate Kid,Patrick Stewart
+415,MOVIES & TV,Which movie introduced a giant Stay Puft Marshmallow Man?,Ghostbusters,Ghostbusters,Heath Ledger,Family Ties,Beetlejuice
+416,MOVIES & TV,Which film featured the character Beetlejuice?,Beetlejuice,Judith Light,Beetlejuice,Steve Urkel,Poltergeist
+417,MOVIES & TV,Who played Beetlejuice in the 1988 film?,Michael Keaton,Michael J. Fox,Family Matters,Michael Keaton,Julia Roberts
+418,MOVIES & TV,Who directed Beetlejuice?,Tim Burton,Tim Burton,Pat Morita,Ted Danson,Cool World
+419,MOVIES & TV,Who played Lydia Deetz in Beetlejuice?,Winona Ryder,Harold Ramis,Transformers,Winona Ryder,Step by Step
+420,MOVIES & TV,Which movie featured the character Edward Lewis played by Richard Gere?,Pretty Woman,Blade Runner,Step by Step,Prince Adam,Pretty Woman
+421,MOVIES & TV,Who played Vivian Ward in Pretty Woman?,Julia Roberts,The Lost Boys,Julia Roberts,Harold Ramis,Bayside High
+422,MOVIES & TV,Which movie featured the character Vivian Ward?,Pretty Woman,Transformers,Pretty Woman,American Pie,Estelle Getty
+423,MOVIES & TV,Which film starred Tom Hanks as a boy who becomes an adult overnight?,Big,Six,Mork,ER,Big
+424,MOVIES & TV,What is the name of the giant floor keyboard toy scene movie?,Big,Six,HAL,Big,Odie
+425,MOVIES & TV,Which movie featured Jessica Rabbit?,Who Framed Roger Rabbit,Beavis and Butt-Head,"Beverly Hills, 90210",Terminator 2: Judgment Day,Who Framed Roger Rabbit
+426,MOVIES & TV,Who voiced the Genie in Disney's Aladdin (1992)?,Robin Williams,George Clooney,The Cosby Show,Ridgemont High,Robin Williams
+427,MOVIES & TV,Which Disney film featured the villain Ursula?,The Little Mermaid,The Little Mermaid,King of the Hill,Alicia Silverstone,Star Trek: Voyager
+428,MOVIES & TV,Which Disney film featured the song 'Circle of Life'?,The Lion King,Sensei Kreese,Linda Hamilton,The Lion King,Lea Thompson
+429,MOVIES & TV,Which movie featured a meerkat named Timon?,The Lion King,Short Circuit,The Lion King,Lethal Weapon,Growing Pains
+430,MOVIES & TV,Who voiced adult Simba in The Lion King (1994)?,Matthew Broderick,Matthew Broderick,David Hasselhoff,Inspector Gadget,Dennis the Menace
+431,MOVIES & TV,Which movie featured the song 'A Whole New World'?,Aladdin,Herbie,Mr. Han,Aladdin,Astro
+432,MOVIES & TV,Which Disney film starred a Chinese heroine who disguised herself as a soldier?,Mulan,Aladdin,He-Man,48 Hrs.,Mulan
+433,MOVIES & TV,Which film featured Woody and Buzz Lightyear?,Toy Story,48 Hrs.,Space Jam,Cast Away,Toy Story
+434,MOVIES & TV,Who voiced Woody in Toy Story?,Tom Hanks,WarGames,Aladdin,Twister,Tom Hanks
+435,MOVIES & TV,Who voiced Buzz Lightyear in Toy Story?,Tim Allen,John Stamos,The Goonies,Footloose,Tim Allen
+436,MOVIES & TV,Which film featured the line 'Life is like a box of chocolates'?,Forrest Gump,Carl Winslow,Forrest Gump,Scott Bakula,Cliff Clavin
+437,MOVIES & TV,Who played Forrest Gump?,Tom Hanks,Tom Hanks,Cast Away,Liar Liar,Scrooged
+438,MOVIES & TV,Which film featured a volleyball named Wilson?,Cast Away,Cast Away,WarGames,Tim Burton,DuckTales
+439,MOVIES & TV,Which movie featured a haunted hotel called the Overlook?,The Shining,Night Court,Geena Davis,The Shining,Cliff Clavin
+440,MOVIES & TV,Who played Jack Torrance in The Shining?,Jack Nicholson,Jodie Foster,Growing Pains,Michael Douglas,Jack Nicholson
+441,MOVIES & TV,Which film featured the character Clarice Starling?,The Silence of the Lambs,Who Framed Roger Rabbit,Married... with Children,The Silence of the Lambs,Terminator 2: Judgment Day
+442,MOVIES & TV,Who played Hannibal Lecter in The Silence of the Lambs?,Anthony Hopkins,Anthony Hopkins,Michael Richards,Jamie Lee Curtis,Independence Day
+443,MOVIES & TV,Who played Clarice Starling in The Silence of the Lambs?,Jodie Foster,Weird Science,Lea Thompson,Jodie Foster,Jaleel White
+444,MOVIES & TV,Which movie featured a character named Lloyd Christmas?,Dumb and Dumber,Who's the Boss?,Dumb and Dumber,Master Splinter,Trading Places
+445,MOVIES & TV,Who played Lloyd Christmas?,Jim Carrey,The A-Team,The X-Files,Poltergeist,Jim Carrey
+446,MOVIES & TV,Which film featured a character named Ace Ventura?,Ace Ventura: Pet Detective,Ace Ventura: Pet Detective,Dennis the Menace,The Thirteenth Floor,Who Framed Roger Rabbit
+447,MOVIES & TV,Who played the title character in The Mask?,Jim Carrey,Uncle Buck,Step by Step,Dark City,Jim Carrey
+448,MOVIES & TV,Which movie featured a lawyer named Fletcher Reede who cannot lie?,Liar Liar,Cast Away,Die Hard,Liar Liar,Bill Murray
+449,MOVIES & TV,Which film featured the quote 'As if!'?,Clueless,48 Hrs.,Clueless,Twin Peaks,Doc Brown
+450,MOVIES & TV,Who played Cher Horowitz in Clueless?,Alicia Silverstone,Independence Day,Matthew Broderick,Alicia Silverstone,Kyle MacLachlan
+451,MOVIES & TV,Which 1996 film featured the memorable alien line “Welcome to Earth”?,Independence Day,Matthew Broderick,Gillian Anderson,Independence Day,Home Improvement
+452,MOVIES & TV,Which 1999 movie followed teenagers at East Great Falls High?,American Pie,Magnum P.I.,Matthew Perry,American Pie,Kurt Russell
+453,MOVIES & TV,Which film starred Robin Williams as a cross-dressing nanny?,Mrs. Doubtfire,Mrs. Doubtfire,Sensei Kreese,Trading Places,Sunnydale High
+454,MOVIES & TV,"Which sitcom featured Uncle Jesse, Danny Tanner and Joey Gladstone?",Full House,DuckTales,Cool World,Good Times,Full House
+455,MOVIES & TV,Who played Danny Tanner on Full House?,Bob Saget,Clueless,Tom Cruise,DeLorean,Bob Saget
+456,MOVIES & TV,Who played Uncle Jesse on Full House?,John Stamos,Jaleel White,John Stamos,Tim Burton,Jim Carrey
+457,MOVIES & TV,Which sitcom featured Carl Winslow as a police officer?,Family Matters,Michael Douglas,Ridgemont High,Family Matters,Living Single
+458,MOVIES & TV,Which show featured FBI agents Mulder and Scully?,The X-Files,The X-Files,Scott Bakula,Geena Davis,Bruce Willis
+459,MOVIES & TV,Who played Fox Mulder?,David Duchovny,Trading Places,Turner & Hooch,David Duchovny,The Terminator
+460,MOVIES & TV,Who played Dana Scully?,Gillian Anderson,Gillian Anderson,Beverly Hills Cop,Back to the Future,Sixteen Candles
+461,MOVIES & TV,Which series featured a town called Twin Peaks?,Twin Peaks,Beetlejuice,Twin Peaks,Tom Cruise,Tim Burton
+462,MOVIES & TV,Who played Agent Dale Cooper in Twin Peaks?,Kyle MacLachlan,Jack Nicholson,Michael Richards,Patrick Stewart,Kyle MacLachlan
+463,MOVIES & TV,Which drama followed doctors at County General Hospital?,ER,Dino,ER,Food,Five
+464,MOVIES & TV,Who played Dr. Doug Ross on ER?,George Clooney,Mad About You,George Clooney,Jennifer Grey,Family Matters
+465,MOVIES & TV,"Which sitcom featured Jerry, Elaine, George, and Kramer?",Seinfeld,Seinfeld,The Mask,Predator,Gremlins
+466,MOVIES & TV,Who played Cosmo Kramer?,Michael Richards,Jack Nicholson,Michael Richards,Michael Keaton,The Lost Boys
+467,TECH & TOYS,Which company released the Atari 2600?,Atari,Compaq,Atari,Ctrl+V,Pager
+468,TECH & TOYS,Which early console came with game cartridges and a joystick?,Atari 2600,Minesweeper,Puyo Puyo,Atari 2600,Care Bears
+469,TECH & TOYS,Which arcade game features a frog crossing roads and rivers?,Frogger,Scanner,Star Wars,Popples,Frogger
+470,TECH & TOYS,Which arcade game involves climbing ladders to rescue Pauline?,Donkey Kong,Donkey Kong,Compact disc,Fax machine,Care Bears
+471,TECH & TOYS,Which classic game asks you to clear rows of falling blocks?,Tetris,SimCity,Tetris,Q*bert,Bop It
+472,TECH & TOYS,Which arcade game involved firing at descending alien invaders?,Space Invaders,Street Fighter II,TurboGrafx-16,Vinyl records,Space Invaders
+473,TECH & TOYS,Which game featured a spaceship shooting rocks into fragments?,Asteroids,Perfection,Asteroids,Pitfall!,Atari Lynx
+474,TECH & TOYS,Which arcade game featured a yellow circle eating dots?,Pac-Man,Pac-Man,Popples,Triangle,Wuzzles
+475,TECH & TOYS,Which game featured a green archer battling monsters in a dungeon?,Gauntlet,Megatron,Gauntlet,Hula-Hoop,Prodigy
+476,TECH & TOYS,Which arcade racer used a steering wheel and a top-down viewpoint in 1984?,Spy Hunter,Commodore,Lights Out,Spy Hunter,Starscream
+477,TECH & TOYS,Which game featured a knight riding an ostrich?,Joust,Square,Joust,Pencil,Casio
+478,TECH & TOYS,Which arcade game featured a chef making giant hamburgers?,BurgerTime,Spirograph,Hula-Hoop,Rubik's Cube,BurgerTime
+479,TECH & TOYS,Which arcade game had a character called Q*bert?,Q*bert,Q*bert,Ctrl+X,Ctrl+C,Hexagon
+480,TECH & TOYS,Which home video game featured an adventurous character named Pitfall Harry?,Pitfall!,Mega Man,Pitfall!,Centipede,Bumblebee
+481,TECH & TOYS,Which console was released after Nintendo's NES and before Nintendo 64?,Super Nintendo Entertainment System,Color Changers Hot Wheels,The Secret of Monkey Island,Super Nintendo Entertainment System,Advanced Online Library
+482,TECH & TOYS,What did SNES stand for?,Super Nintendo Entertainment System,Dot-matrix printer,Super Nintendo Entertainment System,The Secret of Monkey Island,Color Changers Hot Wheels
+483,TECH & TOYS,Which Nintendo game featured Mario rescuing Princess Toadstool?,Super Mario Bros.,Paging service,Super Mario Bros.,Internet Explorer,Street Fighter II
+484,TECH & TOYS,Which 1990 Nintendo game featured Dr. Mario throwing colored capsules?,Dr. Mario,Atari Lynx,Dr. Mario,VHS tapes,Mario Kart
+485,TECH & TOYS,Which Nintendo accessory looked like a gun for Duck Hunt?,NES Zapper,NES Zapper,Dr. Mario,Sony AIBO,Starscream
+486,TECH & TOYS,Which Nintendo robot accessory was called R.O.B.?,Robotic Operating Buddy,Robotic Operating Buddy,Dial-up modem handshake,Advanced Online Library,Dot-matrix printer
+487,TECH & TOYS,Which console used Sonic the Hedgehog as a mascot?,Sega Genesis,PlayStation,Sega Genesis,Troll dolls,Vinyl record
+488,TECH & TOYS,Which company produced the Dreamcast?,Sega,LEGO,Sega,BASIC,RJ-11
+489,TECH & TOYS,Which portable Sega console competed with the Game Boy?,Game Gear,Game Gear,Hula-Hoop,Fax modem,GeoCities
+490,TECH & TOYS,Which 1990s Nintendo handheld was famous for its red-and-black 3D visuals?,Virtual Boy,Virtual Boy,Vinyl record,Dreamcast,Starscream
+491,TECH & TOYS,Which Nintendo console used cartridges and launched in 1996 in North America?,Nintendo 64,Sega Saturn,Nintendo 64,Magnadoodle,Mario Kart
+492,TECH & TOYS,Which controller featured a central analog stick and three prongs?,Nintendo 64 controller,Automated Office Line,Nintendo 64 controller,Day of the Tentacle,Color Changers Hot Wheels
+493,TECH & TOYS,Which PlayStation game featured the character Crash Bandicoot?,Crash Bandicoot,Beanie Babies,Crash Bandicoot,Vinyl record,Walkie-talkie
+494,TECH & TOYS,Which PlayStation franchise featured Lara Croft?,Tomb Raider,Tomb Raider,Resident Evil,Starscream,Tape drive
+495,TECH & TOYS,Which fighting game featured Scorpion and Sub-Zero?,Mortal Kombat,Mortal Kombat,Central Drive,Space Invaders,Etch A Sketch
+496,TECH & TOYS,Which fighting game featured Ryu and Ken?,Street Fighter II,Video Home System,Space Invaders,Street Fighter II,Return of the Jedi
+497,TECH & TOYS,Which puzzle game involved matching colored blobs called Puyos?,Puyo Puyo,Care Bears,Commodore,Puyo Puyo,Pixel Chix
+498,TECH & TOYS,Which game franchise featured a blue Mega Man?,Mega Man,G.I. Joe,Skip-It,Nintendo,Mega Man
+499,TECH & TOYS,Which game franchise featured Link and the Master Sword?,The Legend of Zelda,Sylvanian Families,Day of the Tentacle,The Phantom Menace,The Legend of Zelda
+500,TECH & TOYS,Which game series featured Samus Aran?,Metroid,M.A.S.K.,Metroid,Pin Art,Pac-Man
+501,TECH & TOYS,Which racing game used turtle shells and banana peels?,Mario Kart,CompuServe,Mario Kart,Guess Who?,Hot Wheels
+502,TECH & TOYS,Which multiplayer shooter was set around Agent 007 on Nintendo 64?,GoldenEye 007,Vinyl records,Etch A Sketch,GoldenEye 007,Beanie Babies
+503,TECH & TOYS,Which PC game let players build and manage a simulated city?,SimCity,Myspace,Prodigy,SimCity,Hexagon
+504,TECH & TOYS,Which PC game series featured tiny simulated people in houses?,The Sims,Betamax,Dr. Mario,The Sims,Pogo Ball
+505,TECH & TOYS,Which PC game involved clicking to find the secret of Monkey Island?,The Secret of Monkey Island,The Secret of Monkey Island,Jem and the Holograms,Color Changers Hot Wheels,3DO Interactive Multiplayer
+506,TECH & TOYS,Which computer game featured a purple tentacle as a villain?,Day of the Tentacle,Return of the Jedi,VHS tracking buzz,Day of the Tentacle,Video Head Standard
+507,TECH & TOYS,Which franchise featured the phrase 'Finish him!'?,Mortal Kombat,Commodore 64,Atari Jaguar,Pound Puppies,Mortal Kombat
+508,TECH & TOYS,Which toy featured a multicolored cube invented by Ernő Rubik?,Rubik's Cube,Commodore 64,Rubik's Cube,Mortal Kombat,GoldenEye 007
+509,TECH & TOYS,Which doll line included the character Cabbage Patch Kids?,Cabbage Patch Kids,Single-use cameras,Dual-cassette deck,Cabbage Patch Kids,Netscape Navigator
+510,TECH & TOYS,Which toy line featured miniature blue woodland characters?,Smurfs,Tetris,Discman,Joust,Smurfs
+511,TECH & TOYS,Which toy vehicles changed colors in warm or cold water?,Color Changers Hot Wheels,Color Changers Hot Wheels,Dial-up modem handshake,Advanced Online Library,Cabbage Patch Kids
+512,TECH & TOYS,Which toy franchise featured a giant robot named Voltron?,Voltron,iMac G3,Voltron,Betamax,Breakout
+513,TECH & TOYS,Which action-figure brand used the slogan 'Knowing is half the battle'?,G.I. Joe,FreeCell,Dreamcast,G.I. Joe,Play-Doh
+514,TECH & TOYS,Which toy line featured miniature colorful ponies with symbols on their flanks?,My Little Pony,Beanie Babies,My Little Pony,Connect Four,Speak & Spell
+515,TECH & TOYS,Which toy brand featured a doll named Jem with a rock band?,Jem and the Holograms,Advanced Online Library,Jem and the Holograms,The Phantom Menace,5.25-inch floppy disk
+516,TECH & TOYS,Which plush toy line featured adoptable dogs with an adoption certificate?,Pound Puppies,Super Nintendo,Pound Puppies,Rubik's Cube,Nerf football
+517,TECH & TOYS,Which plush bear read stories from a cassette tape?,Teddy Ruxpin,Transformers,Wooly Willy,Teddy Ruxpin,Care Bears
+518,TECH & TOYS,Which toy animals lived in little plastic houses and came with accessories?,Sylvanian Families,Answering machine,Return of the Jedi,Sylvanian Families,Game Boy boot tone
+519,TECH & TOYS,Which toy featured a spring that walks down stairs?,Slinky,Slinky,Square,Atari,110 film
+520,TECH & TOYS,Which toy construction set used colorful plastic bricks and studs?,LEGO,LEGO,Metroid,Dig Dug,Pencil
+521,TECH & TOYS,Which toy car tracks featured orange flexible road strips?,Hot Wheels,Tomb Raider,Hot Wheels,Bottle cap,Mega Man
+522,TECH & TOYS,Which toy spun around with a string and performed tricks?,Yo-yo,Circle,Kirby,Yo-yo,Voltron
+523,TECH & TOYS,Which toy let children shape brightly colored modeling compound?,Play-Doh,Play-Doh,Breakout,Mixtape,iMac G3
+524,TECH & TOYS,Which toy used a magnetic pen to draw shavings into faces?,Wooly Willy,Wooly Willy,Virtual Boy,Magnadoodle,Sega Saturn
+525,TECH & TOYS,Which toy made images by pressing hands into a wall of pins?,Pin Art,Hexagon,Skip-It,Pin Art,110 film
+526,TECH & TOYS,Which toy was a foam football advertised by Nerf?,Nerf football,Cassette Data,Atari Jaguar,Cassette tape,Nerf football
+527,TECH & TOYS,Which toy included small weighted plastic caps called Pogs?,Pogs,Joust,Pogs,Ctrl+S,Apple
+528,TECH & TOYS,Which 1980s toy was a stuffed animal with a long snout named Alf?,ALF plush toy,Fax machine,Resident Evil,ALF plush toy,Mortal Kombat
+529,TECH & TOYS,Which handheld device used a stylus for early personal organization?,PalmPilot,Mega Man,Dreamcast,Solitaire,PalmPilot
+530,TECH & TOYS,Which device sent text to a pager using a phone or service?,Paging service,GoldenEye 007,Paging service,TurboGrafx-16,Vinyl record
+531,TECH & TOYS,Which device used magnetic tape cassettes to back up computer files?,Tape drive,Operation,Spirograph,Tape drive,Dr. Mario
+532,TECH & TOYS,Which connector was used for telephone dial-up modems?,RJ-11,Tetris,Slinky,RJ-11,Apple
+533,TECH & TOYS,What kind of display used a bulky cathode-ray tube?,CRT monitor,Sega Saturn,CRT monitor,Atari Jaguar,PlayStation
+534,TECH & TOYS,What was the most common 1990s home internet connection type?,Dial-up modem,Mortal Kombat,Dial-up modem,Sega Genesis,Game Boy Color
+535,TECH & TOYS,Which service was known for its 'You've got mail' greeting?,America Online,Game Boy Color,Walkie-talkie,Speak & Spell,America Online
+536,TECH & TOYS,Which online chat application released by AOL in 1997 was known as AIM?,AOL Instant Messenger,AOL Instant Messenger,Cabbage Patch Kids,Sylvanian Families,The Empire Strikes Back
+537,TECH & TOYS,Which Microsoft application became a dominant web browser in the late 1990s?,Internet Explorer,Computer Diskette,Single-use cameras,Sonic the Hedgehog,Internet Explorer
+538,TECH & TOYS,Which web browser popularized the internet in the 1990s before Internet Explorer?,Netscape Navigator,Waterful Ring Toss,Netscape Navigator,Video Head Standard,Cabbage Patch Kids
+539,TECH & TOYS,Which floppy disk size was commonly labeled 5¼-inch?,5.25-inch floppy disk,5.25-inch floppy disk,Robotic Operating Buddy,Nintendo 64 controller,Variable Home Signal
+540,TECH & TOYS,Which Apple computer had a translucent colorful case in 1998?,iMac G3,iMac G3,Game Boy,Netflix,Ctrl+S
+541,TECH & TOYS,Which computer system featured a command prompt called C:\\>?,MS-DOS,Ctrl+V,MS-DOS,110 film,Ctrl+S
+542,TECH & TOYS,Which computer's startup featured the words 'READY.' on a blue screen?,Commodore 64,Atari 2600,Mortal Kombat,Commodore 64,Speak & Spell
+543,TECH & TOYS,Which printer type used continuous paper with perforated edges?,Dot-matrix printer,Dot-matrix printer,Game Boy boot tone,The Legend of Zelda,Sonic the Hedgehog
+544,TECH & TOYS,Which 1980s digital watch brand was known for calculator watches?,Casio,Casio,BASIC,Joust,Spoon
+545,TECH & TOYS,Which device digitized printed photographs or documents?,Flatbed scanner,Cassette Data,TurboGrafx-16,Super Nintendo,Flatbed scanner
+546,TECH & TOYS,Which video camera format used small magnetic videotape cassettes?,MiniDV,MiniDV,Square,Yo-yo,Tetris
+547,TECH & TOYS,Which format competed against VHS for home video recording?,Betamax,Betamax,Ctrl+Z,Bumblebee,Ctrl+V
+548,TECH & TOYS,Which music format used a grooved plastic disc played by a needle?,Vinyl record,Optimus Prime,Etch A Sketch,TurboGrafx-16,Vinyl record
+549,TECH & TOYS,Which Kodak camera format used film cartridges labeled 110?,110 film,110 film,G.I. Joe,Nintendo,Hula-Hoop
+550,TECH & TOYS,What were disposable cameras also called?,Single-use cameras,Dual-cassette deck,The Phantom Menace,Single-use cameras,8-track cartridge
+551,TECH & TOYS,Which type of camera recorded directly to instant film?,Polaroid camera,Playlist stream,Sock'em Boppers,Video Home System,Polaroid camera
+552,TECH & TOYS,What was the compact Sony portable CD player called?,Discman,Metroid,Popples,MS-DOS,Discman
+553,TECH & TOYS,Which format used a plastic optical disc to store music?,Compact disc,Compact disc,Spy Hunter,Vinyl record,Spirograph
+554,TECH & TOYS,Which device was used to copy a cassette tape from one deck to another?,Dual-cassette deck,Answering machine,Cabbage Patch Kids,Dual-cassette deck,American Open Link
+555,TECH & TOYS,Which household gadget recorded a message from a caller onto tape?,Answering machine,Return of the Jedi,Visual High Speed,Answering machine,Street Fighter II
+556,TECH & TOYS,Which computer language was often used for simple home-computer programs?,BASIC,BASIC,Pogs,Bop It,Q*bert
+557,TECH & TOYS,Which keyboard key typically erased the character to the left?,Backspace,Backspace,Microsoft,Triangle,CD player
+558,TECH & TOYS,Which key combination traditionally pasted copied text on Windows?,Ctrl+V,Merlin,Pencil,Ctrl+C,Ctrl+V
+559,TECH & TOYS,Which key combination traditionally saved a document on Windows?,Ctrl+S,Kirby,Walkman,MiniDV,Ctrl+S
+560,TECH & TOYS,Which symbol was central to email addresses?,@,@,Square,Compaq,Merlin
+561,TECH & TOYS,Which company created the original Windows operating system?,Microsoft,M.A.S.K.,Backspace,Microsoft,GeoCities
+562,TECH & TOYS,Which database-driven encyclopedia came on CD-ROM from Microsoft?,Encarta,Walkman,Encarta,Podcast,Pin Art
+563,TECH & TOYS,Which 1990s online reference site began as an interactive encyclopedia from Microsoft?,Encarta,Scanner,Spoon,Popples,Encarta
+564,TECH & TOYS,Which internet access service shipped free trial CDs in the 1990s?,AOL,Jenga,Sony,Simon,AOL
+565,TECH & TOYS,Which game console launched in 1993 with a 3DO logo?,3DO Interactive Multiplayer,The Secret of Monkey Island,Automated Office Line,3DO Interactive Multiplayer,Nintendo Entertainment System
+566,TECH & TOYS,Which handheld console line used interchangeable cartridges called Game Paks?,Game Boy,Megatron,Breakout,GeoCities,Game Boy
+567,TECH & TOYS,Which robotic toy dog became popular in the late 1990s?,Sony AIBO,Sony AIBO,Dr. Mario,Backspace,GeoCities
+568,TECH & TOYS,Which digital pet featured a tiny LCD screen and three buttons?,Tamagotchi,Atari 2600,Tamagotchi,Centipede,Spy Hunter
+569,TECH & TOYS,Which toy used a water-filled ring-toss game controlled by buttons?,Waterful Ring Toss,Street Fighter II,Sylvanian Families,Sock'em Boppers,Waterful Ring Toss
+570,TECH & TOYS,Which electronic toy asked users to repeat sequences of lit-up colors?,Simon,Square,MiniDV,Simon,Pong
+571,TECH & TOYS,Which handheld learning toy taught letters with a talking device from Texas Instruments?,Speak & Spell,Dial-up modem,Speak & Spell,Vinyl records,Sega Genesis
+572,TECH & TOYS,Which toy gun used suction-cup darts before modern foam blasters?,Suction dart gun,Internet Explorer,Dot-matrix printer,Cassette tape,Suction dart gun
+573,TECH & TOYS,Which 1990s toy line featured small colorful trolls with tall hair?,Troll dolls,Nintendo 64,Troll dolls,Walkie-talkie,Etch A Sketch
+574,TECH & TOYS,Which video game featured a heroine named Jill Valentine?,Resident Evil,Resident Evil,TurboGrafx-16,Walkie-talkie,Central Drive
+575,HISTORY & HEADLINES,Who was elected U.S. president in 1980?,Ronald Reagan,Soviet Union,Czechoslovakia,Ronald Reagan,Kyoto Protocol
+576,HISTORY & HEADLINES,Who defeated Jimmy Carter in the 1980 U.S. presidential election?,Ronald Reagan,United Kingdom,H1N1 influenza,Ronald Reagan,Pound sterling
+577,HISTORY & HEADLINES,Who was vice president under President Ronald Reagan?,George H. W. Bush,George H. W. Bush,Hillary Clinton,Apollo spacecraft,Velvet Revolution
+578,HISTORY & HEADLINES,Who was elected U.S. president in 1992?,Bill Clinton,Bill Clinton,Halley's Comet,South Korea,Gerald Ford
+579,HISTORY & HEADLINES,Who was vice president under Bill Clinton?,Al Gore,Poland,Scotland,Skylab,Al Gore
+580,HISTORY & HEADLINES,Who was the first woman U.S. vice-presidential nominee on a major-party ticket in 1984?,Geraldine Ferraro,Geraldine Ferraro,Apollo spacecraft,Britain and India,Columbia disaster
+581,HISTORY & HEADLINES,Which U.S. president signed the Americans with Disabilities Act in 1990?,George H. W. Bush,George H. W. Bush,Geneva Convention,France and China,Margaret Thatcher
+582,HISTORY & HEADLINES,In what year was the Americans with Disabilities Act signed?,1990,1990,1969,1998,1980
+583,HISTORY & HEADLINES,In what year did the United States celebrate its bicentennial?,1976,1996,1980,1976,1989
+584,HISTORY & HEADLINES,In what year did the Watergate break-in take place?,1972,1999,1965,1975,1972
+585,HISTORY & HEADLINES,Which president resigned over the Watergate scandal?,Richard Nixon,Voyager probes,Exxon Valdez,Earth Summit,Richard Nixon
+586,HISTORY & HEADLINES,Who became president after Richard Nixon resigned?,Gerald Ford,Monterey Pop,Gerald Ford,Lillehammer,Exxon Valdez
+587,HISTORY & HEADLINES,In what year did Richard Nixon resign?,1974,1974,1989,1981,1985
+588,HISTORY & HEADLINES,In what year was Jimmy Carter inaugurated?,1977,1977,1974,1985,1983
+589,HISTORY & HEADLINES,Which president brokered the Camp David Accords in 1978?,Jimmy Carter,Jimmy Carter,Rio de Janeiro,Australia,Nancy Reagan
+590,HISTORY & HEADLINES,What Middle Eastern country signed a peace treaty with Israel in 1979?,Egypt,Rosie,Euro,Egypt,China
+591,HISTORY & HEADLINES,Which Iranian political leader came to power after the 1979 revolution?,Ayatollah Khomeini,Three Mile Island,Margaret Thatcher,Ayatollah Khomeini,Sandra Day O'Connor
+592,HISTORY & HEADLINES,In what year did the Iran hostage crisis begin?,1979,1999,1979,1981,1980
+593,HISTORY & HEADLINES,How many American hostages were held for 444 days in Iran?,52,1983,1998,1976,52
+594,HISTORY & HEADLINES,In what year were the American hostages freed from Iran?,1981,1989,1991,1984,1981
+595,HISTORY & HEADLINES,Which country invaded Afghanistan in 1979?,Soviet Union,"July 13, 1985",Amoco Cadiz,Soviet Union,Gerald Ford
+596,HISTORY & HEADLINES,In what year did Soviet forces begin withdrawing from Afghanistan?,1988,1989,1986,1985,1988
+597,HISTORY & HEADLINES,Who was the last leader of the Soviet Union?,Mikhail Gorbachev,Geneva Convention,Geraldine Ferraro,Mikhail Gorbachev,Apollo 13 mission
+598,HISTORY & HEADLINES,Which Soviet leader introduced glasnost and perestroika?,Mikhail Gorbachev,Mikhail Gorbachev,Deepwater Horizon,Apollo spacecraft,Northern Ireland
+599,HISTORY & HEADLINES,What was the Soviet policy of openness called?,Glasnost,Oklahoma,Glasnost,Columbia,Titanic
+600,HISTORY & HEADLINES,What was the Soviet policy of restructuring called?,Perestroika,Perestroika,Yugoslavia,Soviet Union,Y2K rollover
+601,HISTORY & HEADLINES,In what year did the Berlin Wall open?,1989,1989,1980,1994,1976
+602,HISTORY & HEADLINES,Who was the British prime minister nicknamed the Iron Lady?,Margaret Thatcher,George H. W. Bush,Margaret Thatcher,Ruth Bader Ginsburg,Montreal Protocol
+603,HISTORY & HEADLINES,In what year did Margaret Thatcher become British prime minister?,1979,1975,1969,1979,1972
+604,HISTORY & HEADLINES,Who became British prime minister after Margaret Thatcher?,John Major,Glasnost,Yugoslavia,John Major,Washington
+605,HISTORY & HEADLINES,In what year did German reunification occur?,1990,1975,1990,1980,1976
+606,HISTORY & HEADLINES,What was the capital of West Germany before reunification?,Bonn,NAFTA,NATO,CERN,Bonn
+607,HISTORY & HEADLINES,Which country hosted the 1984 Winter Olympics?,Yugoslavia,Perestroika,Barbara Bush,Korean War,Yugoslavia
+608,HISTORY & HEADLINES,Which city hosted the 1984 Winter Olympics?,Sarajevo,COVID-19,Sarajevo,Scotland,Queen Mary
+609,HISTORY & HEADLINES,Which country hosted the 1988 Winter Olympics?,Canada,Canada,Molly,Atlanta,Seoul
+610,HISTORY & HEADLINES,Which city hosted the 1988 Winter Olympics?,Calgary,Titanic,Portugal,Haiti,Calgary
+611,HISTORY & HEADLINES,Which country hosted the 1992 Summer Olympics?,Spain,Spain,Mir,Skylab,Molly
+612,HISTORY & HEADLINES,Which city hosted the 1992 Summer Olympics?,Barcelona,Jamaica,Poland,Barcelona,Romania
+613,HISTORY & HEADLINES,Which city hosted the 1988 Summer Olympics?,Seoul,Spain,Poland,Seoul,Haiti
+614,HISTORY & HEADLINES,Which city hosted the 1980 Winter Olympics?,Lake Placid,Lake Placid,Barbara Bush,Sellafield,Jimmy Carter
+615,HISTORY & HEADLINES,Which country hosted the 1994 Winter Olympics?,Norway,Russia,Poland,Nagano,Norway
+616,HISTORY & HEADLINES,Which city hosted the 1994 Winter Olympics?,Lillehammer,Suez Crisis,Netherlands,Bill Clinton,Lillehammer
+617,HISTORY & HEADLINES,Which country hosted the 1998 Winter Olympics?,Japan,Egypt,Japan,Rosie,NATO
+618,HISTORY & HEADLINES,Which city hosted the 1998 Winter Olympics?,Nagano,Korea,Molly,Belarus,Nagano
+619,HISTORY & HEADLINES,In what year did the Space Shuttle Columbia make the first shuttle flight?,1981,1991,1981,1986,1997
+620,HISTORY & HEADLINES,What was the name of the first reusable NASA space shuttle orbiter to fly in space?,Columbia,Al Gore,Glasnost,HIV/AIDS,Columbia
+621,HISTORY & HEADLINES,In what year did NASA launch the Hubble Space Telescope?,1990,1980,1993,1995,1990
+622,HISTORY & HEADLINES,Which space telescope launched in 1990?,Hubble Space Telescope,Space Shuttle orbiters,Operation Desert Storm,Challenger disaster,Hubble Space Telescope
+623,HISTORY & HEADLINES,Which spacecraft flew past Neptune in 1989?,Voyager 2,Voyager 2,Gerald Ford,Chernobyl,Colorado
+624,HISTORY & HEADLINES,Which spacecraft visited Uranus in 1986?,Voyager 2,Voyager 2,Washington,Titanic,Calgary
+625,HISTORY & HEADLINES,Which space probe made a famous flyby of Halley's Comet in 1986?,Giotto,France,Norway,Giotto,Molly
+626,HISTORY & HEADLINES,What comet returned to the inner solar system in 1986?,Halley's Comet,Nelson Mandela,Halley's Comet,Kyoto Protocol,Paris Agreement
+627,HISTORY & HEADLINES,In what year did the first untethered spacewalk using an MMU take place?,1984,1988,1999,1984,1980
+628,HISTORY & HEADLINES,Which astronaut performed the first untethered spacewalk in 1984?,Bruce McCandless II,Ruth Bader Ginsburg,Bruce McCandless II,Iranian Revolution,Lyndon B. Johnson
+629,HISTORY & HEADLINES,In what year did the Apollo-Soyuz Test Project take place?,1975,1972,1975,1992,1999
+630,HISTORY & HEADLINES,Which two countries cooperated on the Apollo-Soyuz Test Project?,United States and Soviet Union,Brown v. Board of Education,United Kingdom and France,United States and Soviet Union,Operation Desert Storm
+631,HISTORY & HEADLINES,In what year did the Mount St. Helens volcano erupt?,1980,1976,1974,1980,1965
+632,HISTORY & HEADLINES,Which U.S. state contains Mount St. Helens?,Washington,South Korea,Australia,Washington,Glasnost
+633,HISTORY & HEADLINES,In what year did the Mexico City earthquake strike?,1985,1985,1965,1999,1991
+634,HISTORY & HEADLINES,Which U.S. city was hit by the Loma Prieta earthquake in 1989?,San Francisco Bay Area,San Francisco Bay Area,Space Shuttle orbiters,Operation Just Cause,Operation Desert Storm
+635,HISTORY & HEADLINES,In what year did Hurricane Andrew strike Florida?,1992,1976,1975,1979,1992
+636,HISTORY & HEADLINES,Which state was devastated by Hurricane Andrew in 1992?,Florida,COVID-19,Florida,Germany,Polly
+637,HISTORY & HEADLINES,What year did the Exxon Valdez oil spill occur?,1989,1989,1969,1977,1986
+638,HISTORY & HEADLINES,Which Alaskan sound was affected by the Exxon Valdez spill?,Prince William Sound,Cultural Revolution,Operation Desert Storm,Prince William Sound,First iPhone release
+639,HISTORY & HEADLINES,In what year did the Lockerbie bombing occur?,1988,1996,1983,1988,1995
+640,HISTORY & HEADLINES,Which airline was involved in the 1988 Lockerbie bombing?,Pan Am,Yemen,Ethiopia,Pan Am,Titanic
+641,HISTORY & HEADLINES,In what year was Pan Am Flight 103 destroyed over Lockerbie?,1988,1980,1984,1988,1989
+642,HISTORY & HEADLINES,Which ship was attacked near the Falklands during the 1982 war and sank?,HMS Sheffield,Rio de Janeiro,HMS Sheffield,Ronald Reagan,F. W. de Klerk
+643,HISTORY & HEADLINES,In what year did the Falklands War occur?,1982,1994,1982,1992,1988
+644,HISTORY & HEADLINES,Which two countries fought the Falklands War?,United Kingdom and Argentina,United Kingdom and France,Operation Desert Storm,James Webb Space Telescope,United Kingdom and Argentina
+645,HISTORY & HEADLINES,Who was the South African anti-apartheid leader released from prison in 1990?,Nelson Mandela,Nelson Mandela,F. W. de Klerk,Skylab reentry,Halley's Comet
+646,HISTORY & HEADLINES,In what year was Nelson Mandela released from prison?,1990,1987,1984,1990,1996
+647,HISTORY & HEADLINES,Who shared the 1993 Nobel Peace Prize with Nelson Mandela?,F. W. de Klerk,Rio de Janeiro,Czechoslovakia,South Korea,F. W. de Klerk
+648,HISTORY & HEADLINES,Which South African president helped negotiate the end of apartheid?,F. W. de Klerk,Richard Nixon,Ferdinand Marcos,John F. Kennedy,F. W. de Klerk
+649,HISTORY & HEADLINES,In what year did South Africa hold its first universal-suffrage national election?,1994,2001,1975,1994,1969
+650,HISTORY & HEADLINES,In what year did Hong Kong return from British to Chinese sovereignty?,1997,1989,1997,2001,1993
+651,HISTORY & HEADLINES,Which country took control of Hong Kong in 1997?,China,China,Krona,Korea,NATO
+652,HISTORY & HEADLINES,In what year did the Tiananmen Square protests occur?,1989,1999,2001,1992,1989
+653,HISTORY & HEADLINES,Which country experienced the 1986 People Power Revolution?,Philippines,Perestroika,Netherlands,Philippines,Lake Placid
+654,HISTORY & HEADLINES,Which Philippine leader was overthrown in the 1986 People Power Revolution?,Ferdinand Marcos,Ferdinand Marcos,Miranda v. Arizona,Apollo spacecraft,Britain and India
+655,HISTORY & HEADLINES,Who became president of the Philippines after the 1986 revolution?,Corazon Aquino,France and China,United States,Sonia Sotomayor,Corazon Aquino
+656,HISTORY & HEADLINES,Which country faced a severe famine that prompted Live Aid in 1985?,Ethiopia,Ethiopia,Oklahoma,Hungary,Belarus
+657,HISTORY & HEADLINES,On what date was Live Aid held?,"July 13, 1985",Dot-com crash,HMS Sheffield,Earth Summit,"July 13, 1985"
+658,HISTORY & HEADLINES,Which British musician helped organize Live Aid?,Bob Geldof,Roe v. Wade,Y2K rollover,Gerald Ford,Bob Geldof
+659,HISTORY & HEADLINES,In what year did the first World Wide Web proposal appear?,1989,1977,1989,1986,1988
+660,HISTORY & HEADLINES,Who invented the World Wide Web at CERN?,Tim Berners-Lee,Sonia Sotomayor,Tim Berners-Lee,Montreal Protocol,Nelson Mandela
+661,HISTORY & HEADLINES,Which research laboratory hosted development of the World Wide Web?,CERN,NATO,CERN,Cuba,Mir
+662,HISTORY & HEADLINES,In what year was the first website publicly made available?,1991,1993,1991,1997,1980
+663,HISTORY & HEADLINES,In what year was the World Wide Web made freely available without royalties by CERN?,1993,1998,1993,1994,1982
+664,HISTORY & HEADLINES,Which global treaty was adopted in 1987 to protect the ozone layer?,Montreal Protocol,Rosalynn Carter,George H. W. Bush,Columbia disaster,Montreal Protocol
+665,HISTORY & HEADLINES,In what year was the Montreal Protocol signed?,1987,1996,1987,1972,1993
+666,HISTORY & HEADLINES,Which 1992 global environmental summit was held in Rio de Janeiro?,Earth Summit,Y2K rollover,Los Angeles,Swiss franc,Earth Summit
+667,HISTORY & HEADLINES,Which city hosted the 1992 Earth Summit?,Rio de Janeiro,Dot-com crash,H1N1 influenza,Rio de Janeiro,"July 13, 1985"
+668,HISTORY & HEADLINES,In what year did the first cloned mammal Dolly the sheep come to public attention?,1997,1997,1980,1998,1987
+669,HISTORY & HEADLINES,"What kind of animal was Dolly, announced in 1997?",Sheep,Sheep,ASEAN,CERN,France
+670,HISTORY & HEADLINES,What European country was Dolly the sheep cloned in?,Scotland,COVID-19,Sydney,Scotland,Calgary
+671,HISTORY & HEADLINES,In what year did the Human Genome Project formally begin?,1990,1981,1990,1999,1969
+672,HISTORY & HEADLINES,In what year did the Channel Tunnel open?,1994,1996,1994,1974,1980
+673,HISTORY & HEADLINES,Which two countries are linked by the Channel Tunnel?,United Kingdom and France,Operation Enduring Freedom,United Kingdom and France,James Webb Space Telescope,Hubble Space Telescope
+674,HISTORY & HEADLINES,Which continent hosted the first Rugby World Cup in 1987?,Oceania,Live Aid,Oceania,Skylab,Colorado
+675,HISTORY & HEADLINES,In what year did the Los Angeles riots following the Rodney King verdict occur?,1992,1975,1992,1988,1994
+676,HISTORY & HEADLINES,Which city experienced major riots after the Rodney King verdict?,Los Angeles,Los Angeles,Swiss franc,Lake Placid,Ronald Reagan
+677,HISTORY & HEADLINES,In which state was the 1995 Oklahoma City bombing?,Oklahoma,Ethiopia,Chernobyl,Oklahoma,Washington
+678,HISTORY & HEADLINES,In what year did Princess Diana die?,1997,1974,1995,1993,1997
+679,HISTORY & HEADLINES,In which city did Princess Diana die in a car crash?,Paris,NAFTA,SARS,China,Paris
+680,HISTORY & HEADLINES,In what year did the Columbine High School shooting occur?,1999,1985,1998,1999,1993
+681,HISTORY & HEADLINES,Which U.S. state was the site of Columbine High School?,Colorado,Colorado,Lusitania,COVID-19,Calgary
+682,HISTORY & HEADLINES,In what year was the Good Friday Agreement signed?,1998,1995,1998,1983,1984
+683,SPORTS & CULTURE,Which NBA player was nicknamed Dr. J?,Julius Erving,Diego Maradona,Skateboarding,Julius Erving,United States
+684,SPORTS & CULTURE,Which NBA player was nicknamed The Mailman?,Karl Malone,Karl Malone,Lennox Lewis,Pete Sampras,Jim Courier
+685,SPORTS & CULTURE,Which NBA center was nicknamed The Dream?,Hakeem Olajuwon,Edmonton Oilers,Hakeem Olajuwon,Dallas Cowboys,Reggie Jackson
+686,SPORTS & CULTURE,Which NBA star was called The Admiral?,David Robinson,Michael Jordan,David Robinson,Miami Dolphins,Maurice Greene
+687,SPORTS & CULTURE,Which NBA player was known as Sir Charles?,Charles Barkley,Charles Barkley,Boston Red Sox,New York Yankees,Denver Broncos
+688,SPORTS & CULTURE,Which team drafted Michael Jordan in 1984?,Chicago Bulls,Chicago Bulls,Jack Nicklaus,Chicago Bears,Richard Petty
+689,SPORTS & CULTURE,Which NBA team won the championship in 1986?,Boston Celtics,Boston Celtics,Denver Broncos,Michael Jordan,Nadia Comaneci
+690,SPORTS & CULTURE,Which NBA team won the championship in 1987?,Los Angeles Lakers,San Antonio Spurs,Philadelphia 76ers,Kareem Abdul-Jabbar,Los Angeles Lakers
+691,SPORTS & CULTURE,Which NBA team won the championship in 1988?,Los Angeles Lakers,Sugar Ray Leonard,Los Angeles Lakers,San Antonio Spurs,Los Angeles Raiders
+692,SPORTS & CULTURE,Which NBA team won the championship in 1989?,Detroit Pistons,Detroit Pistons,Electric Slide,American football,Dallas Cowboys
+693,SPORTS & CULTURE,Which NBA team won the championship in 1990?,Detroit Pistons,Michael Jordan,Boston Celtics,New York Giants,Detroit Pistons
+694,SPORTS & CULTURE,Which NBA team won the championship in 1994?,Houston Rockets,Charles Barkley,Calgary Flames,Michael Johnson,Houston Rockets
+695,SPORTS & CULTURE,Which NBA team won the championship in 1995?,Houston Rockets,Brandi Chastain,Michael Johnson,Dale Earnhardt,Houston Rockets
+696,SPORTS & CULTURE,Which NBA team won the championship in 1999?,San Antonio Spurs,San Antonio Spurs,Green Bay Packers,Detroit Tigers,NC State Wolfpack
+697,SPORTS & CULTURE,Who was the NBA Finals MVP in 1991?,Michael Jordan,Michael Jordan,Atlanta Braves,Detroit Tigers,The Running Man
+698,SPORTS & CULTURE,Who won the 1986 NBA Slam Dunk Contest?,Spud Webb,Tap shoes,Spud Webb,Argentina,Gaiters
+699,SPORTS & CULTURE,Which player won the 1988 NBA Slam Dunk Contest?,Michael Jordan,Boston Celtics,Houston Rockets,Michael Jordan,George Foreman
+700,SPORTS & CULTURE,Which player popularized the 'skyhook' shot?,Kareem Abdul-Jabbar,Jackie Joyner-Kersee,New England Patriots,Los Angeles Raiders,Kareem Abdul-Jabbar
+701,SPORTS & CULTURE,Which player was famous for a no-look pass with the Showtime Lakers?,Magic Johnson,Scottie Pippen,Chicago Bears,Reggie Jackson,Magic Johnson
+702,SPORTS & CULTURE,Which center led the 1990s Orlando Magic before joining the Lakers?,Shaquille O'Neal,Electric Slide,Andre the Giant,Miami Dolphins,Shaquille O'Neal
+703,SPORTS & CULTURE,Which NCAA team won the men's basketball championship in 1982?,North Carolina Tar Heels,Evonne Goolagong Cawley,Women's gymnastics team,North Carolina Tar Heels,National Boxing Association
+704,SPORTS & CULTURE,Which NCAA team won the men's basketball championship in 1983?,NC State Wolfpack,Billie Jean King,Men's hockey team,Sugar Ray Leonard,NC State Wolfpack
+705,SPORTS & CULTURE,Which coach led Indiana to an undefeated 1976 NCAA basketball season?,Bob Knight,Bob Knight,Baseball,Joe Namath,Roger Maris
+706,SPORTS & CULTURE,Which NFL quarterback was nicknamed Joe Cool?,Joe Montana,Joe Montana,Field goal,Tiger Woods,Snowboarding
+707,SPORTS & CULTURE,Which NFL quarterback won four Super Bowls with the 49ers?,Joe Montana,Ayrton Senna,Sammy Sosa,Joe Montana,Pete Sampras
+708,SPORTS & CULTURE,Who was the quarterback of the 1985 Chicago Bears?,Jim McMahon,Steffi Graf,Los Angeles,Nolan Ryan,Jim McMahon
+709,SPORTS & CULTURE,Which NFL team was known for the 'Steel Curtain' defense?,Pittsburgh Steelers,Green Bay Packers,Pittsburgh Steelers,Evander Holyfield,Los Angeles Lakers
+710,SPORTS & CULTURE,Which NFL receiver was nicknamed 'The Playmaker'?,Michael Irvin,Julius Erving,Chicago Bulls,Chicago Bears,Michael Irvin
+711,SPORTS & CULTURE,Which NFL running back held the all-time rushing record after 1984?,Walter Payton,Buffalo Bills,Walter Payton,New York Mets,Chicago Bulls
+712,SPORTS & CULTURE,Which player broke Walter Payton's NFL career rushing record in 2002?,Emmitt Smith,Tecmo Bowl,Boris Becker,Table tennis,Emmitt Smith
+713,SPORTS & CULTURE,Which NFL team won Super Bowl XVIII in 1984?,Los Angeles Raiders,Los Angeles Raiders,Washington Redskins,Evander Holyfield,Men's basketball team
+714,SPORTS & CULTURE,Which team won Super Bowl XXI in 1987?,New York Giants,New York Yankees,New York Giants,Michael Jordan,Dallas Cowboys
+715,SPORTS & CULTURE,Which team won Super Bowl XXII in 1988?,Washington Redskins,Boston Celtics,Washington Redskins,Edmonton Oilers,San Francisco 49ers
+716,SPORTS & CULTURE,Which team won Super Bowl XXIII in 1989?,San Francisco 49ers,Evander Holyfield,San Francisco 49ers,Green Bay Packers,Minnesota Twins
+717,SPORTS & CULTURE,Which team won Super Bowl XXV in 1991?,New York Giants,Boston Red Sox,Atlanta Braves,New York Giants,Detroit Tigers
+718,SPORTS & CULTURE,Which team won Super Bowl XXXII in 1998?,Denver Broncos,Earvin Johnson,Reggie Jackson,Denver Broncos,Dallas Cowboys
+719,SPORTS & CULTURE,Which team won Super Bowl XXXIII in 1999?,Denver Broncos,Scottie Pippen,Mary Lou Retton,Reggie Jackson,Denver Broncos
+720,SPORTS & CULTURE,Which NFL kicker missed a potential game-winning field goal in Super Bowl XXV?,Scott Norwood,William Perry,Scott Norwood,Magic Johnson,Dale Earnhardt
+721,SPORTS & CULTURE,Which NFL team was famous for the 1972 perfect season?,Miami Dolphins,The Undertaker,Wilma Rudolph,Miami Dolphins,Roller skates
+722,SPORTS & CULTURE,Which football player was nicknamed 'Broadway Joe'?,Joe Namath,Ice skates,Joe Namath,Joan Benoit,Bobby Orr
+723,SPORTS & CULTURE,Which MLB player was nicknamed The Wizard for his defense?,Ozzie Smith,Steffi Graf,Roger Maris,Ozzie Smith,Kerri Strug
+724,SPORTS & CULTURE,Which MLB player was nicknamed The Iron Man?,Cal Ripken Jr.,Mario Lemieux,Chicago Bears,Scottie Pippen,Cal Ripken Jr.
+725,SPORTS & CULTURE,"Which baseball player hit his 3,000th hit in 1985 as a Cincinnati Red?",Pete Rose,Pete Rose,Surfing,Argentina,Macarena
+726,SPORTS & CULTURE,Which MLB player hit 61 home runs in 1961?,Roger Maris,Steve Kerr,Leg warmers,Roger Maris,Tiger Woods
+727,SPORTS & CULTURE,Which baseball player hit 62 home runs in 1998 before finishing with 70?,Mark McGwire,Herb Brooks,Muhammad Ali,Mark McGwire,Julius Erving
+728,SPORTS & CULTURE,Who won the 1984 World Series?,Detroit Tigers,Michael Jordan,Houston Rockets,Edmonton Oilers,Detroit Tigers
+729,SPORTS & CULTURE,Who won the 1986 World Series?,New York Mets,Skateboarding,Richard Petty,New York Mets,Arm warmers
+730,SPORTS & CULTURE,Who won the 1988 World Series?,Los Angeles Dodgers,Oakland Athletics,Los Angeles Dodgers,San Antonio Spurs,New York Rangers
+731,SPORTS & CULTURE,Who won the 1989 World Series?,Oakland Athletics,Men's hockey team,Oakland Athletics,American football,Houston Rockets
+732,SPORTS & CULTURE,Who won the 1991 World Series?,Minnesota Twins,Minnesota Twins,Mike Singletary,Viktor Petrenko,Scottie Pippen
+733,SPORTS & CULTURE,Who won the 1992 World Series?,Toronto Blue Jays,Edmonton Oilers,San Francisco 49ers,Toronto Blue Jays,Michael Jordan
+734,SPORTS & CULTURE,Who won the 1993 World Series?,Toronto Blue Jays,Detroit Red Wings,Evander Holyfield,Toronto Blue Jays,Men's hockey team
+735,SPORTS & CULTURE,Who won the 1995 World Series?,Atlanta Braves,Brandi Chastain,Atlanta Braves,Denver Broncos,United States
+736,SPORTS & CULTURE,Who won the 1996 World Series?,New York Yankees,New York Giants,Brandi Chastain,Philadelphia 76ers,New York Yankees
+737,SPORTS & CULTURE,Who won the 1998 World Series?,New York Yankees,Oakland Raiders,New York Yankees,Detroit Red Wings,Maurice Greene
+738,SPORTS & CULTURE,Who hit the dramatic 1988 World Series home run while injured?,Kirk Gibson,Muhammad Ali,Kirk Gibson,Roger Maris,Running Man
+739,SPORTS & CULTURE,Who hit a walk-off World Series-winning home run in 1993?,Joe Carter,Ice hockey,Chris Evert,Tiger Woods,Joe Carter
+740,SPORTS & CULTURE,Which pitcher threw a record seven no-hitters in MLB?,Nolan Ryan,Los Angeles,Nolan Ryan,Madden NFL,Björn Borg
+741,SPORTS & CULTURE,Which NHL player was nicknamed Super Mario?,Mario Lemieux,Dale Earnhardt,Magic Johnson,Calgary Flames,Mario Lemieux
+742,SPORTS & CULTURE,Which NHL star was known as Mr. Hockey?,Gordie Howe,Roger Maris,Table tennis,Gordie Howe,Alain Prost
+743,SPORTS & CULTURE,Which NHL team won the 1980 Stanley Cup?,New York Islanders,New York Yankees,Green Bay Packers,New York Islanders,San Antonio Spurs
+744,SPORTS & CULTURE,Which NHL team won the 1984 Stanley Cup?,Edmonton Oilers,Edmonton Oilers,Wayne Gretzky,The Running Man,Brandi Chastain
+745,SPORTS & CULTURE,Which NHL team won the 1989 Stanley Cup?,Calgary Flames,Hakeem Olajuwon,Roller skates,Reggie Jackson,Calgary Flames
+746,SPORTS & CULTURE,Which NHL team won the 1994 Stanley Cup?,New York Rangers,Michael Jordan,Dallas Cowboys,New York Yankees,New York Rangers
+747,SPORTS & CULTURE,Which NHL team won the 1997 Stanley Cup?,Detroit Red Wings,Toronto Blue Jays,American football,Green Bay Packers,Detroit Red Wings
+748,SPORTS & CULTURE,Which NHL team won the 1998 Stanley Cup?,Detroit Red Wings,NC State Wolfpack,New York Giants,New York Islanders,Detroit Red Wings
+749,SPORTS & CULTURE,Which 1980 U.S. Olympic hockey team defeated the Soviet Union?,United States,William Perry,Magic Johnson,Wilma Rudolph,United States
+750,SPORTS & CULTURE,Which coach led the 1980 U.S. Olympic hockey team?,Herb Brooks,Gordie Howe,Joe Frazier,Kirk Gibson,Herb Brooks
+751,SPORTS & CULTURE,Who won the women's singles title at Wimbledon in 1980?,Evonne Goolagong Cawley,Evonne Goolagong Cawley,New England Patriots,Florence Griffith Joyner,New York Islanders
+752,SPORTS & CULTURE,Who won the men's singles title at Wimbledon in 1980?,Björn Borg,Björn Borg,Joe Carter,Ice skates,Hulk Hogan
+753,SPORTS & CULTURE,Who won the men's Wimbledon title in 1985 at age 17?,Boris Becker,Pete Sampras,Boris Becker,Boston Celtics,West Germany
+754,SPORTS & CULTURE,Which tennis star was known as 'Superbrat'?,John McEnroe,Mario Lemieux,Karl Malone,John McEnroe,Racquetball
+755,SPORTS & CULTURE,Which tennis player won the 1988 Golden Slam in singles?,Steffi Graf,Joe Montana,Roger Maris,Steffi Graf,Extra point
+756,SPORTS & CULTURE,Which tennis star became famous for the phrase 'You cannot be serious!'?,John McEnroe,Stefan Edberg,Riddick Bowe,John McEnroe,Richard Petty
+757,SPORTS & CULTURE,Who won the 1990 Wimbledon men's singles title?,Stefan Edberg,Emmitt Smith,Detroit Tigers,Katarina Witt,Stefan Edberg
+758,SPORTS & CULTURE,Which tennis player won eight Grand Slam singles titles in the 1990s?,Andre Agassi,Extra point,Andre Agassi,Lennox Lewis,Los Angeles
+759,SPORTS & CULTURE,Which American gymnast won the 1984 Olympic all-around title?,Mary Lou Retton,Mary Lou Retton,Miami Dolphins,Ken Griffey Jr.,Detroit Pistons
+760,SPORTS & CULTURE,Which figure skater won Olympic gold in 1984 and 1988?,Katarina Witt,Magic Johnson,Katarina Witt,Walter Payton,United States
+761,SPORTS & CULTURE,Who won Olympic figure-skating gold in 1992 in men's singles?,Viktor Petrenko,Viktor Petrenko,New York Yankees,New York Giants,Maurice Greene
+762,SPORTS & CULTURE,Which sprinter won the men's 100m at the 1988 Olympics before disqualification?,Ben Johnson,Greg Norman,Leg warmers,Ben Johnson,Roger Maris
+763,SPORTS & CULTURE,Who won Olympic men's 100m gold in 1988 after Johnson's disqualification?,Carl Lewis,Tecmo Bowl,Tony Hawk,Carl Lewis,Kerri Strug
+764,SPORTS & CULTURE,Which runner set the men's 100m world record of 9.79 seconds in 1999?,Maurice Greene,Hakeem Olajuwon,United States,Maurice Greene,Edmonton Oilers
+765,SPORTS & CULTURE,Which distance runner won the women's marathon at the 1984 Olympics?,Joan Benoit,Chris Evert,Extra point,Joan Benoit,Steffi Graf
+766,SPORTS & CULTURE,Who won the 1996 Olympic women's gymnastics all-around gold?,Lilia Podkopayeva,Andre the Giant,Lilia Podkopayeva,NC State Wolfpack,Edmonton Oilers
+767,SPORTS & CULTURE,Who landed the famous injured vault to help the U.S. gymnastics team in 1996?,Kerri Strug,Karl Malone,Lennox Lewis,Kerri Strug,Arm warmers
+768,SPORTS & CULTURE,Which boxer was known as The Greatest?,Muhammad Ali,John McEnroe,Muhammad Ali,Pete Sampras,Kerri Strug
+769,SPORTS & CULTURE,Who defeated Mike Tyson in a major upset in 1990?,Buster Douglas,Buster Douglas,Electric Slide,Walter Payton,Mary Lou Retton
+770,SPORTS & CULTURE,Which boxer was nicknamed 'The Real Deal'?,Evander Holyfield,Evander Holyfield,Oakland Athletics,Martina Navratilova,Detroit Red Wings
+771,SPORTS & CULTURE,Which golfer won the Masters in 1986 at age 46?,Jack Nicklaus,Jack Nicklaus,Cabbage Patch,Stefan Edberg,Magic Johnson
+772,SPORTS & CULTURE,Which golfer was nicknamed 'The Shark'?,Greg Norman,Olga Korbut,Tiger Woods,Greg Norman,Joe Montana
+773,SPORTS & CULTURE,Which golfer won the 1997 Masters?,Tiger Woods,Olga Korbut,Steve Kerr,Table tennis,Tiger Woods
+774,SPORTS & CULTURE,Which driver won the 1988 Daytona 500?,Bobby Allison,Wilma Rudolph,Richard Petty,Bobby Allison,Dennis Rodman
+775,SPORTS & CULTURE,Which NASCAR driver was nicknamed The Intimidator?,Dale Earnhardt,Calgary Flames,The Undertaker,Minnesota Twins,Dale Earnhardt
+776,SPORTS & CULTURE,Which NASCAR driver was known as 'The King'?,Richard Petty,Isiah Thomas,Richard Petty,United States,Dennis Rodman
+777,SPORTS & CULTURE,"Which F1 driver won championships in 1988, 1990 and 1991?",Ayrton Senna,Bobby Allison,Ayrton Senna,Riddick Bowe,Marion Jones
+778,SPORTS & CULTURE,Which F1 driver won championships in 1985 and 1986?,Alain Prost,Sammy Sosa,Extra point,Ayrton Senna,Alain Prost
+779,SPORTS & CULTURE,Which F1 champion died at Imola in 1994?,Ayrton Senna,Ayrton Senna,Calgary Flames,Richard Petty,Joe Frazier
+780,SPORTS & CULTURE,Which soccer player led Argentina to the 1986 World Cup?,Diego Maradona,Diego Maradona,Michael Irvin,Miami Dolphins,Soccer cleats
+781,SPORTS & CULTURE,Which country won the 1982 FIFA World Cup?,Italy,Squash,Bat,Italy,2010s
+782,SPORTS & CULTURE,Which country won the 1986 FIFA World Cup?,Argentina,Tiger Woods,Grapevine,Touchdown,Argentina
+783,SPORTS & CULTURE,Which country won the 1990 FIFA World Cup?,West Germany,Mark McGwire,Los Angeles,West Germany,John McEnroe
+784,SPORTS & CULTURE,Which country won the 1994 FIFA World Cup?,Brazil,Brazil,Pete Rose,Safety,Bob Knight
+785,SPORTS & CULTURE,Which country won the 1998 FIFA World Cup?,France,Soccer,Macarena,Gaiters,France
+786,SPORTS & CULTURE,Which U.S. women's soccer player scored the winning penalty in the 1999 World Cup final?,Brandi Chastain,Calgary Flames,Mary Lou Retton,Brandi Chastain,Reggie Jackson
+787,SPORTS & CULTURE,Which wrestler was nicknamed 'Macho Man'?,Randy Savage,Hulk Hogan,Herb Brooks,Racquetball,Randy Savage
+788,SPORTS & CULTURE,Which wrestling star used the catchphrase 'Can you smell what The Rock is cooking?',The Rock,NBA Jam,The Rock,Cricket,Sammy Sosa
+789,SPORTS & CULTURE,Which wrestler used the entrance theme 'Real American'?,Hulk Hogan,Hulk Hogan,Field goal,Usain Bolt,Ice skates
+790,SPORTS & CULTURE,Which skateboarder landed the first documented 900 at X Games in 1999?,Tony Hawk,Los Angeles,Nolan Ryan,Spud Webb,Tony Hawk
+791,SPORTS & CULTURE,Which 1990s dance style used swinging arms and a signature running-man move?,The Running Man,Oakland Raiders,The Running Man,Hakeem Olajuwon,Brandi Chastain
+792,LIFE & TRENDS,Which colorful 1980s shoe brand became known for jelly sandals?,Jellies,Best Buy,Wite-Out,Beehive,Jellies
+793,LIFE & TRENDS,Which hairstyle involved a high ponytail worn on one side?,Side ponytail,Layered socks,Resident Evil,Side ponytail,Marvel Comics
+794,LIFE & TRENDS,Which hairstyle used a permanent-wave chemical treatment for curls?,Perm,Nike,Perm,Grunge,Tang
+795,LIFE & TRENDS,Which hairstyle was short in front and long in back?,Mullet,Walkman,Domino,Target,Mullet
+796,LIFE & TRENDS,Which hair accessory consisted of a fabric-covered elastic band?,Scrunchie,Scrunchie,Receipts,Book cover,Wristwatch
+797,LIFE & TRENDS,Which colorful wristwear was made from elastic bands woven together?,Friendship bracelets,Friendship bracelets,Hungry Hungry Hippos,Blank cassette tape,Bell-bottom suit pants
+798,LIFE & TRENDS,Which bright plastic jewelry trend involved oversized hoop earrings?,Hoop earrings,Hoop earrings,Hawaiian shirt,I'm lovin' it,High-top fade
+799,LIFE & TRENDS,Which 1980s fashion involved wearing two different-color socks?,Layered socks,Crocs Classic,Resident Evil,The Economist,Layered socks
+800,LIFE & TRENDS,Which style paired a sweatshirt off one shoulder with leg warmers?,Flashdance look,Multicolor pen,Sour Patch Kids,Flashdance look,Friendship rings
+801,LIFE & TRENDS,Which 1990s fashion style featured baggy jeans and flannel?,Grunge,Champion,Reebok,Grunge,Fritos
+802,LIFE & TRENDS,Which jeans brand became famous for its red tab?,Levi's,Mullet,Levi's,Sears,CompUSA
+803,LIFE & TRENDS,Which shoe brand popularized the Air Jordan line?,Nike,Nike,Mullet,Fritos,Pog
+804,LIFE & TRENDS,Which sneaker company made Chuck Taylor All Stars?,Converse,Beyblade,Bow tie,Converse,TV Guide
+805,LIFE & TRENDS,Which 1980s accessory was a wide belt worn over a loose shirt?,Cinched belt,Cinched belt,Slap bracelet,Model rocket,Smart speaker
+806,LIFE & TRENDS,Which style of pants had elastic cuffs and a baggy silhouette?,Parachute pants,Trivial Pursuit,Instant message,Library archive,Parachute pants
+807,LIFE & TRENDS,Which jeans style had a high waist and tapered leg?,Mom jeans,Pixie cut,OfficeMax,Mom jeans,Crossfire
+808,LIFE & TRENDS,Which 1990s fabric choker was often made of stretchy plastic loops?,Tattoo choker,Direct message,The Economist,Hoop earrings,Tattoo choker
+809,LIFE & TRENDS,Which 1980s fabric pattern often used vivid geometric shapes?,Memphis design,Wi-Fi password,Nintendo Power,Memphis design,Activation fee
+810,LIFE & TRENDS,Which clothing brand advertised 'Guess? Jeans' prominently in the 1980s?,GUESS,Tuxedo,CompUSA,Levi's,GUESS
+811,LIFE & TRENDS,Which outdoor clothing brand made the Nuptse puffer jacket popular?,The North Face,Memphis design,Multicolor pen,The North Face,Library archive
+812,LIFE & TRENDS,Which brand was famous for its crocodile-logo polo shirts?,Lacoste,Airheads,Doritos,Mullet,Lacoste
+813,LIFE & TRENDS,Which mall clothing chain was associated with preppy teen fashion in the 1990s?,Abercrombie & Fitch,Rotary telephone,National Geographic,Abercrombie & Fitch,Telephone directory
+814,LIFE & TRENDS,Which shoe brand became popular for its lace-up 1460 boot?,Dr. Martens,RadioShack,Dr. Martens,Book cover,French twist
+815,LIFE & TRENDS,Which retailer's catalog was a holiday gift-list staple?,Sears,Sears,Mullet,Perm,Cheetos
+816,LIFE & TRENDS,Which store was famous for its large red bullseye logo?,Target,Bow tie,Target,GPS app,Twister
+817,LIFE & TRENDS,Which electronics retailer had the slogan 'You've got questions. We've got answers.'?,RadioShack,Nickelodeon,RadioShack,Tootsie Pop,Mr. Clean
+818,LIFE & TRENDS,Which chain specialized in rental movies and video games?,Blockbuster,Blockbuster,Cinched belt,Baggy jeans,Crimped hair
+819,LIFE & TRENDS,Which 1980s retail chain used the slogan 'The fun place to shop'?,Kmart,Mall,Kmart,Perm,Grunge
+820,LIFE & TRENDS,Which toy store used the jingle 'I don't wanna grow up'?,Toys 'R' Us,Cloud drive,Model rocket,Fanny pack,Toys 'R' Us
+821,LIFE & TRENDS,Which fast-food chain introduced the Happy Meal nationwide in 1979?,McDonald's,Protractor,Livestream,McDonald's,Nickelodeon
+822,LIFE & TRENDS,Which fast-food mascot was a purple character named Grimace?,McDonald's,Photo lab,Tiger Beat,McDonald's,Duffel bag
+823,LIFE & TRENDS,Which pizza chain used the mascot the Noid?,Domino's,Kool-Aid,Camcorder,Beehive,Domino's
+824,LIFE & TRENDS,"Which cereal brand featured a rabbit saying 'Silly rabbit, Trix are for kids!'?",Trix,Trix,Kinko's,Fax,Webcam
+825,LIFE & TRENDS,Which cereal featured Tony the Tiger?,Frosted Flakes,Embossed foil,Frosted Flakes,Marvel Comics,Email account
+826,LIFE & TRENDS,Which cereal had a mascot named Toucan Sam?,Froot Loops,Memory card,Froot Loops,Movie night,Baggy jeans
+827,LIFE & TRENDS,Which cereal used the slogan 'They're magically delicious!'?,Lucky Charms,Side ponytail,Lucky Charms,Model rocket,Delivery tip
+828,LIFE & TRENDS,Which snack cake brand sold Twinkies?,Hostess,Cheetos,Bow tie,Tickets,Hostess
+829,LIFE & TRENDS,Which 1980s gum brand promoted its 'fresh' flavor in commercials?,Juicy Fruit,Juicy Fruit,Skinny jeans,Duffel bag,Polo shirt
+830,LIFE & TRENDS,"Which chocolate candies advertised 'Melts in your mouth, not in your hand'?",M&M's,Guts,Nerds,Mullet,M&M's
+831,LIFE & TRENDS,Which peanut butter brand used the slogan 'Choosy moms choose...',Jif,Pog,Mall,Jif,Guts
+832,LIFE & TRENDS,Which soft drink was marketed with the tagline 'The Choice of a New Generation'?,Pepsi,Pepsi,Tablet,Mohawk,Pager
+833,LIFE & TRENDS,Which soft drink brand introduced New Coke in 1985?,Coca-Cola,USB stick,Eat fresh,Budweiser,Coca-Cola
+834,LIFE & TRENDS,Which beverage brand featured the Kool-Aid Man?,Kool-Aid,Kool-Aid,Best Buy,Hostess,Airheads
+835,LIFE & TRENDS,Which drink was sold as a powdered orange-flavored mix and connected with astronauts?,Tang,Clue,Keds,Perm,Tang
+836,LIFE & TRENDS,Which candy brand marketed Pop Rocks?,Pop Rocks,Mr. Clean,Pop Rocks,Sam Goody,Coca-Cola
+837,LIFE & TRENDS,Which candy came in small rectangular dispensers featuring character heads?,PEZ,Puma,PEZ,Trix,Mohawk
+838,LIFE & TRENDS,Which candy featured a tiny plastic tube filled with flavored sugar powder?,Pixy Stix,Pop Rocks,Mr. Mouth,Operation,Pixy Stix
+839,LIFE & TRENDS,Which sour candy brand used the tagline 'Sour. Sweet. Gone.'?,Sour Patch Kids,Sour Patch Kids,Smart speaker,Instant camera,Crocs Classic
+840,LIFE & TRENDS,Which snack was a cheese-flavored puff brand named after its mascot Chester Cheetah?,Cheetos,Crew cut,Rugrats,Cheetos,Bow tie
+841,LIFE & TRENDS,Which snack brand featured an anthropomorphic snack named Mr. Peanut?,Planters,Planters,Mr. Clean,Twizzlers,Cufflink
+842,LIFE & TRENDS,Which fast-food chain featured a talking Chihuahua in 1990s commercials?,Taco Bell,Projector,Taco Bell,Eat fresh,Pixy Stix
+843,LIFE & TRENDS,Which ad used the catchphrase 'Where's the beef?',Wendy's,Planters,Toaster,QR code,Wendy's
+844,LIFE & TRENDS,Which beer brand used a trio of talking frogs in the 1990s?,Budweiser,USB stick,Operation,Budweiser,Mr. Mouth
+845,LIFE & TRENDS,Which 1980s candy commercial asked 'How many licks does it take...'?,Tootsie Pop,Blockbuster,Tootsie Pop,Dr. Martens,White Pages
+846,LIFE & TRENDS,Which television slogan said 'This is your brain on drugs'?,Partnership for a Drug-Free America,Friendship bracelets,Friendship bracelet kit,Partnership for a Drug-Free America,Legends of the Hidden Temple
+847,LIFE & TRENDS,Which television commercial included a crash-test dummy named Vince?,National Highway Traffic Safety Administration,National Highway Traffic Safety Administration,Legends of the Hidden Temple,Holographic trading cards,Partnership for a Drug-Free America
+848,LIFE & TRENDS,Which 1980s slogan said 'The best part of waking up is...',Folgers,CompUSA,Folgers,Twister,Tuxedo
+849,LIFE & TRENDS,Which deodorant brand used the commercial line 'Raise your hand if you're Sure'?,Sure,Life,Guts,PEZ,Sure
+850,LIFE & TRENDS,Which cleaning product advertised a character named Mr. Clean?,Mr. Clean,Pay phone,Mr. Clean,Billboard,Domino's
+851,LIFE & TRENDS,Which company delivered printed phone directories commonly called Yellow Pages?,Telephone companies,Have it your way,Kids' activity placemat,Supermarket Sweep,Telephone companies
+852,LIFE & TRENDS,Which thick book listed residents' home telephone numbers alphabetically?,White Pages,Rotary dial,White Pages,Cloud drive,Home Depot
+853,LIFE & TRENDS,Which type of phone used a circular dial with finger holes?,Rotary telephone,Trivial Pursuit,Rotary telephone,Correction fluid,Flashdance look
+854,LIFE & TRENDS,Which type of phone had a coiled cord connecting handset to base?,Corded telephone,Corded telephone,Instant message,Where's the beef?,Rotary telephone
+855,LIFE & TRENDS,Which form of message was sent through telephone lines and printed on paper?,Fax,VCR,Tuxedo,Fax,GUESS
+856,LIFE & TRENDS,Which type of photo booth printed strips of small portraits?,Photo booth,UGG Classic,Blockbuster,Photo booth,Book cover
+857,LIFE & TRENDS,Which store service developed 35mm camera film and returned prints?,Photo lab,OfficeMax,Photo lab,Crossfire,Pixy Stix
+858,LIFE & TRENDS,Which material was used to cover and protect school textbooks by hand?,Brown paper grocery bag,Kids' activity placemat,Brown paper grocery bag,Console television,Abercrombie & Fitch
+859,LIFE & TRENDS,Which school supply used liquid white paint to hide typing errors?,Correction fluid,Correction fluid,Wi-Fi password,Answering machine,Super Mario Bros.
+860,LIFE & TRENDS,Which correction fluid brand was commonly called White-Out?,Wite-Out,QR code,Jukebox,Eat fresh,Wite-Out
+861,LIFE & TRENDS,Which writing tool used a four-color selector at its top?,Multicolor pen,Capri leggings,Multicolor pen,Tattoo choker,Direct message
+862,LIFE & TRENDS,Which school tool measured angles in degrees?,Protractor,Toys 'R' Us,Protractor,Tootsie Pop,Blockbuster
+863,LIFE & TRENDS,Which board game involved answering questions in six categories?,Trivial Pursuit,Beanie Babies,Sour Patch Kids,Rotary telephone,Trivial Pursuit
+864,LIFE & TRENDS,Which board game featured a plastic hippo trying to swallow marbles?,Hungry Hungry Hippos,Silicone watchbands,Hungry Hungry Hippos,Abercrombie & Fitch,Friendship bracelets
+865,LIFE & TRENDS,Which game had players twist on colored circles on a floor mat?,Twister,Tickets,Twister,Blender,Wendy's
+866,LIFE & TRENDS,Which tabletop game used a buzzer to remove body parts with tweezers?,Operation,Converse,Pompadour,Crossfire,Operation
+867,LIFE & TRENDS,Which game required identifying faces using flip-down portraits?,Guess Who?,Livestream,Tootsie Pop,Yo-yo set,Guess Who?
+868,LIFE & TRENDS,Which game had players placing plastic ships on hidden grids?,Battleship,Guess Who?,Fanny pack,Battleship,Wristwatch
+869,LIFE & TRENDS,Which game used a spring-loaded launcher and marbles to score points?,Crossfire,Budweiser,Crossfire,Fax paper,Coca-Cola
+870,LIFE & TRENDS,Which toy/game let players feed plastic disks into a mouth-shaped machine?,Mr. Mouth,Phone case,Book cover,Champion,Mr. Mouth
+871,LIFE & TRENDS,Which classic toy featured plastic shapes inserted into matching holes?,Shape sorter,Shape sorter,Streaming fee,Lucky Charms,Business suit
+872,LIFE & TRENDS,Which magazine often featured puzzles and fun facts for children with a character named Goofus?,Highlights,Pay phone,Wristwatch,Highlights,Livestream
+873,LIFE & TRENDS,Which children's magazine famously had a 'Hidden Pictures' feature?,Highlights,Highlights,Duffel bag,Taco Bell,Pixie cut
+874,LIFE & TRENDS,Which magazine featured celebrity gossip and teen celebrity posters?,Tiger Beat,Tiger Beat,Guess Who?,Duffel bag,Video call
+875,LIFE & TRENDS,Which magazine focused on pop music charts and album reviews?,Billboard,Budweiser,Operation,Billboard,Jeopardy!
+876,LIFE & TRENDS,Which monthly gaming magazine was published by Nintendo?,Nintendo Power,Beanie Babies,Nintendo Power,Frosted Flakes,Screen protector
+877,LIFE & TRENDS,Which comics publisher produced the X-Men?,Marvel Comics,Beanie Babies,Email account,Marvel Comics,The Economist
+878,LIFE & TRENDS,Which comics publisher produced Batman?,DC Comics,Mom jeans,DC Comics,Cufflink,Projector
+879,LIFE & TRENDS,Which 1990s television channel specialized in music videos?,MTV,Pog,MTV,Clue,Mohawk
+880,LIFE & TRENDS,Which cable network launched in 1981 with music videos?,MTV,MTV,Mohawk,DSLR,Puma
+881,LIFE & TRENDS,Which network was known for the orange splat logo?,Nickelodeon,Messenger bag,Wristwatch,Toys 'R' Us,Nickelodeon
+882,LIFE & TRENDS,Which Nickelodeon show used green slime as a signature gag?,You Can't Do That on Television,You Can't Do That on Television,Legends of the Hidden Temple,Partnership for a Drug-Free America,Blank cassette tape
+883,LIFE & TRENDS,Which Nickelodeon game show featured an obstacle course called the Aggro Crag?,Guts,Fax,Time,Toaster,Guts
+884,LIFE & TRENDS,Which Nickelodeon game show featured a giant stone head called Olmec?,Legends of the Hidden Temple,Legends of the Hidden Temple,Social media profile,Friendship bracelet kit,Popular Mechanics
+885,LIFE & TRENDS,Which children's TV show used a talking puppet named Mr. Moose?,Captain Kangaroo,Captain Kangaroo,Rotary telephone,Barney & Friends,Fruit by the Foot
+886,LIFE & TRENDS,Which children's show starred a big purple dinosaur?,Barney & Friends,Captain Kangaroo,Screen protector,Flashdance look,Barney & Friends
+887,LIFE & TRENDS,Which kids show featured characters named Tommy Pickles and Chuckie Finster?,Rugrats,Rugrats,People,Lacoste,GPS app
+888,LIFE & TRENDS,Which TV show used a live studio audience guessing prices of goods?,The Price Is Right,Blank cassette tape,The Price Is Right,Telephone directory,Supermarket Sweep
+889,LIFE & TRENDS,Which game show asked contestants to solve word puzzles on a spinning wheel?,Wheel of Fortune,Barney & Friends,Wheel of Fortune,Sour Patch Kids,Farmer's Almanac
+890,LIFE & TRENDS,Which game show required contestants to phrase answers as questions?,Jeopardy!,Jeopardy!,Fax paper,Twizzlers,Mr. Clean
+891,LIFE & TRENDS,Which 1990s game show featured contestants racing through a supermarket?,Supermarket Sweep,Screen protector,Console television,Scratch-and-sniff,Supermarket Sweep
+892,LIFE & TRENDS,Which 1980s sitcom featured a theme about a 'very special lady'?,The Facts of Life,Making mixtapes,Fry's Electronics,The Facts of Life,Farmer's Almanac
+893,LIFE & TRENDS,Which game show was known for a host shouting 'Survey says!'?,Family Feud,Dr. Martens,Tiger Beat,Blockbuster,Family Feud
+894,LIFE & TRENDS,Which 1990s school trend involved collecting holographic trading cards?,Holographic trading cards,Holographic trading cards,Answering machine,Legends of the Hidden Temple,Silicone watchbands
+895,LIFE & TRENDS,Which 1990s collectible craze involved plush animals with heart-shaped tags?,Beanie Babies,Messenger bag,Beanie Babies,Streaming fee,Resident Evil
+896,LIFE & TRENDS,Which McDonald's promotion involved collectible glass mugs of movie characters?,Promotional glassware,Promotional glassware,Social media profile,Dust jacket sleeve,Friendship bracelets
+897,LIFE & TRENDS,Which restaurant tradition involved a paper placemat for children to color?,Kids' activity placemat,Kids' activity placemat,Friendship bracelets,Silicone watchbands,Converse Chuck Taylor
+898,LIFE & TRENDS,Which youth activity centered on recording radio songs onto blank cassettes?,Making mixtapes,Trivial Pursuit,Have it your way,Making mixtapes,Beanie Babies
+899,LIFE & TRENDS,Which game featured a plumber named Luigi?,Super Mario Bros.,Farmer's Almanac,Instant message,Bluetooth pairing,Super Mario Bros.
+900,LIFE & TRENDS,Which home appliance often had a wood-grain finish in the 1970s?,Console television,Supermarket Sweep,Birkenstock Boston,Console television,Instant message
